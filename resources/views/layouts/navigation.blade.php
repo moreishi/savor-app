@@ -27,9 +27,12 @@
                             <span class="ml-1 text-xs font-medium text-green-600">₱{{ number_format($navTotal, 2) }}</span>
                         @endif
                     </x-nav-link>
+                    @can('admin')
                     <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
                         {{ __('Dashboard') }}
                     </x-nav-link>
+                    @endcan
+                    @can('admin')
                     <x-nav-link :href="route('admin.recipes.index')" :active="request()->routeIs('admin.recipes.*')">
                         {{ __('Recipes') }}
                     </x-nav-link>
@@ -45,6 +48,7 @@
                     <x-nav-link :href="route('prices.import')" :active="request()->routeIs('prices.*')">
                         {{ __('Import Prices') }}
                     </x-nav-link>
+                    @endcan
                 </div>
             </div>
 
@@ -114,9 +118,12 @@
                     <span class="ml-1 text-xs font-medium text-green-600">₱{{ number_format($navTotal, 2) }}</span>
                 @endif
             </x-responsive-nav-link>
+            @can('admin')
             <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
                 {{ __('Dashboard') }}
             </x-responsive-nav-link>
+            @endcan
+            @can('admin')
             <x-responsive-nav-link :href="route('admin.recipes.index')" :active="request()->routeIs('admin.recipes.*')">
                 {{ __('Recipes') }}
             </x-responsive-nav-link>
@@ -132,6 +139,7 @@
             <x-responsive-nav-link :href="route('prices.import')" :active="request()->routeIs('prices.*')">
                 {{ __('Import Prices') }}
             </x-responsive-nav-link>
+            @endcan
         </div>
 
         @auth

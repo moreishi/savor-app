@@ -16,7 +16,7 @@ Route::post('/grocery-list/branch', [GroceryListController::class, 'setBranch'])
 
 Route::view('/offline', 'offline');
 
-Route::get('/dashboard', function () {
+Route::middleware('can:admin')->get('/dashboard', function () {
     $stats = [
         'recipes' => \App\Models\Recipe::count(),
         'ingredients' => \App\Models\Ingredient::count(),
@@ -33,7 +33,7 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
-Route::middleware(['auth'])->prefix('prices')->group(function () {
+Route::middleware(['auth', 'can:admin'])->prefix('prices')->group(function () {
     Route::get('/import', [PriceImportController::class, 'create'])->name('prices.import');
     Route::post('/import', [PriceImportController::class, 'store']);
     Route::get('/import/{import}/status', [PriceImportController::class, 'status']);
@@ -41,7 +41,7 @@ Route::middleware(['auth'])->prefix('prices')->group(function () {
     Route::get('/template', [PriceImportController::class, 'downloadTemplate'])->name('prices.template');
 });
 
-Route::middleware(['auth'])->prefix('admin')->name('admin.')->group(function () {
+Route::middleware(['auth', 'can:admin'])->prefix('admin')->name('admin.')->group(function () {
     Route::resource('recipes', App\Http\Controllers\Admin\RecipeController::class);
     Route::resource('ingredients', App\Http\Controllers\Admin\IngredientController::class);
     Route::resource('branches', App\Http\Controllers\Admin\BranchController::class);
