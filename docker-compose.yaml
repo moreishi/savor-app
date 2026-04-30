@@ -1,0 +1,37 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - APP_KEY=${APP_KEY:-base64:I6AaahQbqQe7l3kzaeqe0BwUo6DzUkZjqeB+cSMNtzk=}
+    container_name: savor-app
+    restart: unless-stopped
+    ports:
+      - "8200:80"
+    environment:
+      APP_ENV: production
+      APP_DEBUG: false
+      APP_KEY: ${APP_KEY:-base64:I6AaahQbqQe7l3kzaeqe0BwUo6DzUkZjqeB+cSMNtzk=}
+      APP_URL: http://localhost:8200
+      DB_CONNECTION: sqlite
+      SESSION_DRIVER: database
+      QUEUE_CONNECTION: database
+      CACHE_STORE: database
+      SESSION_DOMAIN: "localhost"
+      LOG_LEVEL: warning
+      FILESYSTEM_DISK: local
+      MAIL_MAILER: log
+    volumes:
+      - savor_storage:/app/storage
+      - savor_database:/app/database
+    networks:
+      - savor
+
+networks:
+  savor:
+    driver: bridge
+
+volumes:
+  savor_storage:
+  savor_database:
