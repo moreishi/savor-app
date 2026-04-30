@@ -14,7 +14,11 @@ class RecipeController extends Controller
             ->orderBy('created_at', 'desc');
 
         if ($request->filled('search')) {
-            $query->where('title', 'like', '%' . $request->search . '%');
+            $search = $request->search;
+            $query->where(function ($q) use ($search) {
+                $q->where('title', 'like', '%' . $search . '%')
+                  ->orWhereHas('category', fn ($cq) => $cq->where('name', 'like', '%' . $search . '%'));
+            });
         }
 
         $featured = Recipe::with('category')

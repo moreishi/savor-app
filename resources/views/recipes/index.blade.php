@@ -37,7 +37,7 @@
             </div>
 
             <!-- Featured Recipes -->
-            @if($featured->count() > 0)
+            @if(!request()->filled('search') && $featured->count() > 0)
             <div class="mb-12">
                 <h2 class="text-xl font-semibold text-gray-900 mb-4">🌟 Featured Recipes</h2>
                 <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
@@ -70,6 +70,10 @@
                 <h2 class="text-xl font-semibold text-gray-900 mb-4">
                     @if(request('search'))
                         Search results for "{{ request('search') }}"
+                        <span class="ml-2 inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-indigo-100 text-indigo-700">
+                            {{ request('search') }}
+                            <a href="{{ route('recipes.index') }}" class="ml-1.5 hover:text-indigo-900">&times;</a>
+                        </span>
                     @else
                         All Recipes
                     @endif
