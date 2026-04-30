@@ -17,7 +17,14 @@ Route::post('/grocery-list/branch', [GroceryListController::class, 'setBranch'])
 Route::view('/offline', 'offline');
 
 Route::get('/dashboard', function () {
-    return view('dashboard');
+    $stats = [
+        'recipes' => \App\Models\Recipe::count(),
+        'ingredients' => \App\Models\Ingredient::count(),
+        'branches' => \App\Models\Branch::count(),
+        'prices' => \App\Models\BranchPrice::count(),
+    ];
+
+    return view('dashboard', compact('stats'));
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::middleware('auth')->group(function () {
@@ -32,6 +39,13 @@ Route::middleware(['auth'])->prefix('prices')->group(function () {
     Route::get('/import/{import}/status', [PriceImportController::class, 'status']);
     Route::post('/import/{import}/confirm', [PriceImportController::class, 'confirm']);
     Route::get('/template', [PriceImportController::class, 'downloadTemplate'])->name('prices.template');
+});
+
+Route::middleware(['auth'])->prefix('admin')->name('admin.')->group(function () {
+    Route::resource('recipes', App\Http\Controllers\Admin\RecipeController::class);
+    Route::resource('ingredients', App\Http\Controllers\Admin\IngredientController::class);
+    Route::resource('branches', App\Http\Controllers\Admin\BranchController::class);
+    Route::resource('tags', App\Http\Controllers\Admin\TagController::class);
 });
 
 require __DIR__.'/auth.php';

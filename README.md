@@ -1,58 +1,146 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Savor 🍽️
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+**Recipe → Grocery List PWA** for Robinsons Retail (O!Save, Robinsons Supermarket, Easymart, Shopwise).
 
-## About Laravel
+Browse Filipino recipes, add ingredients to your grocery list, and see real-time estimated costs based on your selected branch's pricing.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Tech Stack
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+| Layer | Technology |
+|-------|-----------|
+| **Framework** | Laravel 12 |
+| **Frontend** | Blade + Alpine.js (no Vue/React/Livewire) |
+| **Styling** | Tailwind CSS 3.x |
+| **Database** | SQLite (development), PostgreSQL-ready |
+| **PWA** | Service Worker + Web Manifest |
+| **Build** | Vite |
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## Features
 
-## Learning Laravel
+- **50+ Filipino Recipes** — Adobo, Sinigang, Kare-Kare, and more
+- **Branch Pricing** — Real-time cost estimates for O!Save, Robinsons, Easymart, Shopwise
+- **Smart Unit Conversion** — Converts recipe units (cloves, tbsp, pcs) to purchase units (kg, bottle, pack) with context-aware per-item weights
+- **Session-Free Branch** — Branch selection persists via Alpine persist
+- **Session Cart** — Full grocery list with add/remove/clear, aggregated quantities
+- **PWA** — Installable, works offline with fallback page
+- **Admin Panel** — CRUD for recipes, ingredients, branches, tags
+- **CSV Price Import** — Upload → Validate → Preview → Confirm flow
+- **Print-Ready** — Print-friendly grocery list layout
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-In addition, [Laracasts](https://laracasts.com) contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-You can also watch bite-sized lessons with real-world projects on [Laravel Learn](https://laravel.com/learn), where you will be guided through building a Laravel application from scratch while learning PHP fundamentals.
-
-## Agentic Development
-
-Laravel's predictable structure and conventions make it ideal for AI coding agents like Claude Code, Cursor, and GitHub Copilot. Install [Laravel Boost](https://laravel.com/docs/ai) to supercharge your AI workflow:
+## Quick Start
 
 ```bash
-composer require laravel/boost --dev
+# 1. Clone & install dependencies
+git clone git@github.com:moreishi/savor-app.git
+cd savor-app
+composer install
+npm install
 
-php artisan boost:install
+# 2. Environment
+cp .env.example .env
+php artisan key:generate
+
+# 3. Database (SQLite)
+touch database/database.sqlite
+php artisan migrate --seed --seeder=SavorDatabaseSeeder
+
+# 4. Build frontend
+npm run build
+
+# 5. Serve
+php artisan serve --port=8200
 ```
 
-Boost provides your agent 15+ tools and skills that help agents build Laravel applications while following best practices.
+The app will be at **http://localhost:8200**.
 
-## Contributing
+### Admin Access
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+| Credential | Value |
+|------------|-------|
+| **URL** | `/login` |
+| **Email** | `admin@savor.ph` |
+| **Password** | `password` |
 
-## Code of Conduct
+## Architecture
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+### Models & Relationships
 
-## Security Vulnerabilities
+```
+Category ──1:N──> Recipe ──M:N──> Tag (via recipe_tag)
+                     │
+                     └────M:N──> Ingredient (via recipe_ingredient)
+                                     │
+                                     └────1:N──> BranchPrice
+                                                     │
+                                                     └────N:1──> Branch
+```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- **recipe_ingredient pivot**: `quantity`, `unit`, `is_optional`, `notes`, `sort_order`
+- **BranchPrice**: Links ingredient → branch with `price`, `purchase_quantity`, `purchase_unit`, `variant_label`
+
+### Key Services
+
+- **`UnitConverter`** (`app/Helpers/UnitConverter.php`) — 465-line core conversion engine with:
+  - BFS graph traversal for multi-step conversions
+  - Context-aware piece-to-weight mapping (e.g., 1 pcs Bay Leaf = 0.5g, 1 pcs Egg = 50g)
+  - Density-based volume↔weight (e.g., 1 L White Rice = 850g)
+  - Per-ingredient pack sizes (e.g., Spaghetti Pasta = 500g/pack)
+  - Volume → pack (via grams intermediate)
+  - 15 unit types: kg, g, mg, L, mL, tbsp, tsp, cup, bottle, can, clove, pack, bundle, dozen, pcs
+- **`GroceryListService`** (`app/Services/GroceryListService.php`) — Session-based cart with aggregation, dedup, total calculation
+- **`Recipe::getGroceryList($branchId)`** — Resolves ingredient prices per branch with variant fallback
+
+### Routes
+
+| Prefix | Description |
+|--------|-------------|
+| `/` | Public recipe listing & search |
+| `/recipes/{slug}` | Recipe detail with serving adjuster |
+| `/grocery-list/*` | Cart management (view, add, remove, clear, set branch) |
+| `/admin/*` | Admin CRUD (auth required) |
+| `/prices/import` | CSV price import wizard |
+| `/offline` | PWA offline fallback |
+
+## Sprint Roadmap
+
+| Sprint | Focus | Status |
+|--------|-------|--------|
+| **Sprint 0** | Laravel scaffold, 50 recipes, 9 categories, 70 ingredients, CSV import queue | ✅ Done |
+| **Sprint 1** | Public frontend (home, recipe detail, serving adjuster) | ✅ Done |
+| **Sprint 2** | PWA (manifest, service worker, offline page) | ✅ Done |
+| **Sprint 3** | Branch pricing (624 records, session cart, branch selector) | ✅ Done |
+| **Sprint 4** | Admin CRUD (recipes, ingredients, branches, tags) | ✅ Done |
+| **Sprint 5** | Unit conversion polish, nav price badge, error handling, docs | ✅ Done |
+| **Sprint 6** | Promo engine (planned) | 🔜 |
+
+## CSV Price Import Flow
+
+1. **Download template** at `/prices/template`
+2. **Upload CSV** — system validates headers & formats
+3. **Queue validation** — background job checks data
+4. **Preview** — see valid/invalid rows before committing
+5. **Confirm** — queued batch import (idempotent)
+
+## PWA Features
+
+- **Web Manifest** — Installable on mobile/desktop home screens
+- **Service Worker** — Caches assets on first visit, serves offline fallback page
+- **Offline Page** — Graceful message when network unavailable
+
+## Unit Conversion Reference
+
+| Recipe Unit | Converts To | Method |
+|-------------|-------------|--------|
+| `cloves` | g, kg | 5g per clove |
+| `tbsp` | mL, bottle | 15mL per tbsp |
+| `tsp` | mL, g (via density), pack (via density) | 5mL per tsp |
+| `pcs` | g, kg | Context-aware per-item weight |
+| `pack` | g, kg | Context-aware pack size (default 50g) |
+| `bundle` | g, kg | 250g per bundle |
+| `dozen` | pcs | 12 pcs per dozen |
+| `bottle` | mL, L | 500mL per bottle |
+| `can` | mL, L | 370mL per can |
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+MIT

@@ -111,6 +111,7 @@ class Recipe extends Model
                         $item->recipe_unit,
                         $pricePerPurchaseUnit,
                         $price->purchase_unit,
+                        $item->name,
                     );
 
                     $item->purchase_price = (float) $price->price;

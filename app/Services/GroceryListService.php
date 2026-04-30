@@ -82,6 +82,7 @@ class GroceryListService
             }
         }
 
+        $cart["total"] = round(array_reduce($cart["items"], fn($c, $i) => $c + ($i["total_cost"] ?? 0), 0), 2);
         session(['grocery_list' => $cart]);
     }
 
@@ -110,6 +111,7 @@ class GroceryListService
         }
         unset($item);
 
+        $cart["total"] = round(array_reduce($cart["items"], fn($c, $i) => $c + ($i["total_cost"] ?? 0), 0), 2);
         session(['grocery_list' => $cart]);
     }
 
@@ -184,6 +186,7 @@ class GroceryListService
         }, 0.0);
 
         session(['grocery_list' => $cart]);
+        $cart["total"] = $totalCost > 0 ? round($totalCost, 2) : 0;
 
         return [
             'items' => $items,

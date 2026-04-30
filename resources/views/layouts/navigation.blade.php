@@ -17,13 +17,30 @@
                     </x-nav-link>
                     <x-nav-link :href="route('grocery-list.index')" :active="request()->routeIs('grocery-list.*')">
                         {{ __('Grocery List') }}
-                        @php $navCount = count(session('grocery_list.recipes', [])); @endphp
+                        @php
+                            $navRecipes = session('grocery_list.recipes', []);
+                            $navCount = count($navRecipes);
+                            $navTotal = session('grocery_list.total', 0);
+                        @endphp
                         @if($navCount > 0)
                             <span class="ml-1.5 inline-flex items-center justify-center px-1.5 py-0.5 text-xs font-bold leading-none text-white bg-indigo-500 rounded-full">{{ $navCount }}</span>
+                            <span class="ml-1 text-xs font-medium text-green-600">₱{{ number_format($navTotal, 2) }}</span>
                         @endif
                     </x-nav-link>
                     <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
                         {{ __('Dashboard') }}
+                    </x-nav-link>
+                    <x-nav-link :href="route('admin.recipes.index')" :active="request()->routeIs('admin.recipes.*')">
+                        {{ __('Recipes') }}
+                    </x-nav-link>
+                    <x-nav-link :href="route('admin.ingredients.index')" :active="request()->routeIs('admin.ingredients.*')">
+                        {{ __('Ingredients') }}
+                    </x-nav-link>
+                    <x-nav-link :href="route('admin.branches.index')" :active="request()->routeIs('admin.branches.*')">
+                        {{ __('Branches') }}
+                    </x-nav-link>
+                    <x-nav-link :href="route('admin.tags.index')" :active="request()->routeIs('admin.tags.*')">
+                        {{ __('Tags') }}
                     </x-nav-link>
                     <x-nav-link :href="route('prices.import')" :active="request()->routeIs('prices.*')">
                         {{ __('Import Prices') }}
@@ -87,13 +104,30 @@
             </x-responsive-nav-link>
             <x-responsive-nav-link :href="route('grocery-list.index')" :active="request()->routeIs('grocery-list.*')">
                 {{ __('Grocery List') }}
-                @php $navCount = count(session('grocery_list.recipes', [])); @endphp
+                @php
+                    $navRecipes = session('grocery_list.recipes', []);
+                    $navCount = count($navRecipes);
+                    $navTotal = session('grocery_list.total', 0);
+                @endphp
                 @if($navCount > 0)
                     <span class="ml-1.5 inline-flex items-center justify-center px-1.5 py-0.5 text-xs font-bold leading-none text-white bg-indigo-500 rounded-full">{{ $navCount }}</span>
+                    <span class="ml-1 text-xs font-medium text-green-600">₱{{ number_format($navTotal, 2) }}</span>
                 @endif
             </x-responsive-nav-link>
             <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
                 {{ __('Dashboard') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('admin.recipes.index')" :active="request()->routeIs('admin.recipes.*')">
+                {{ __('Recipes') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('admin.ingredients.index')" :active="request()->routeIs('admin.ingredients.*')">
+                {{ __('Ingredients') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('admin.branches.index')" :active="request()->routeIs('admin.branches.*')">
+                {{ __('Branches') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('admin.tags.index')" :active="request()->routeIs('admin.tags.*')">
+                {{ __('Tags') }}
             </x-responsive-nav-link>
             <x-responsive-nav-link :href="route('prices.import')" :active="request()->routeIs('prices.*')">
                 {{ __('Import Prices') }}

@@ -18,6 +18,8 @@
         <!-- Scripts -->
         @vite(['resources/css/app.css', 'resources/js/app.js'])
 
+        @stack('scripts')
+
         <script>
             if ('serviceWorker' in navigator) {
                 window.addEventListener('load', () => {
