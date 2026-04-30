@@ -1,0 +1,3141 @@
+[
+    {
+        "title": "Classic Chicken Adobo",
+        "slug": "classic-chicken-adobo",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 40,
+        "servings": 4,
+        "description": "The quintessential Filipino dish — tender chicken simmered in soy sauce, vinegar, garlic, and bay leaves.",
+        "instructions": "1. Marinate chicken thighs in soy sauce, crushed garlic, and bay leaves for 30 minutes.\n2. Heat oil in a pot. Brown the chicken pieces on all sides. Remove and set aside.\n3. In the same pot, sauté remaining garlic until fragrant.\n4. Pour in the marinade and add vinegar. Do not stir — let it boil for 5 minutes.\n5. Add browned chicken, 1 cup water, and ground pepper. Simmer for 30 minutes until tender.\n6. Season with salt to taste. Serve with steamed rice.",
+        "is_featured": true,
+        "tags": [
+            "budget-meals",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Thigh",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "bone-in",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 6,
+                "unit": "cloves",
+                "notes": "crushed",
+                "sort_order": 2
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 6,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Vinegar (Suka)",
+                "quantity": 4,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Bay Leaf (Laurel)",
+                "quantity": 3,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Ground Black Pepper",
+                "quantity": 1,
+                "unit": "tsp",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 7
+            }
+        ]
+    },
+    {
+        "title": "Chicken Tinola",
+        "slug": "chicken-tinola",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 15,
+        "cook_time": 35,
+        "servings": 4,
+        "description": "A comforting ginger-garlic chicken soup with green papaya and malunggay leaves.",
+        "instructions": "1. Heat oil, sauté ginger, garlic, and onion until aromatic.\n2. Add chicken pieces and cook until lightly browned.\n3. Pour in water or rice wash. Bring to a boil, then simmer for 20 minutes.\n4. Add sayote (chayote) wedges. Cook for 10 more minutes.\n5. Add dahon ng sili or malunggay leaves. Simmer 2 minutes.\n6. Season with patis (fish sauce) and pepper. Serve hot.",
+        "is_featured": true,
+        "tags": [
+            "30-minute-meals",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Thigh",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "cut into serving pieces",
+                "sort_order": 1
+            },
+            {
+                "name": "Ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "notes": "julienned",
+                "sort_order": 2
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 4
+            },
+            {
+                "name": "Sayote (Chayote)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "wedged",
+                "sort_order": 5
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Chicken Curry",
+        "slug": "chicken-curry",
+        "category": "meat",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 40,
+        "servings": 4,
+        "description": "Creamy Filipino-style chicken curry with coconut milk and vegetables.",
+        "instructions": "1. Season chicken with salt and pepper. Brown in oil, set aside.\n2. Sauté garlic, onion, and ginger.\n3. Add curry powder, stir for 1 minute until fragrant.\n4. Pour coconut milk and 1 cup water. Bring to a boil.\n5. Return chicken to pot. Simmer for 20 minutes.\n6. Add kalabasa and sitaw. Cook 10 more minutes.\n7. Season with patis and pepper. Serve with rice.",
+        "is_featured": false,
+        "tags": [
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Thigh",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 3
+            },
+            {
+                "name": "Ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "notes": "julienned",
+                "sort_order": 4
+            },
+            {
+                "name": "Coconut (Gata)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Kalabasa (Squash)",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "cubed",
+                "sort_order": 6
+            },
+            {
+                "name": "Sitaw (String Beans)",
+                "quantity": 1,
+                "unit": "bundle",
+                "notes": "cut 2 inches",
+                "sort_order": 7
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 8
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 9
+            }
+        ]
+    },
+    {
+        "title": "Chicken Afritada",
+        "slug": "chicken-afritada",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 15,
+        "cook_time": 35,
+        "servings": 4,
+        "description": "A hearty tomato-based chicken stew with potatoes, carrots, and bell peppers.",
+        "instructions": "1. Season chicken with salt and pepper. Brown in oil. Set aside.\n2. Sauté garlic and onion until soft.\n3. Add tomato sauce and 1 cup water. Bring to a boil.\n4. Return chicken, add potatoes and carrots. Simmer 20 minutes.\n5. Add bell peppers. Cook 5 more minutes.\n6. Season with salt and pepper. Serve with rice.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "family-size"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Thigh",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 3
+            },
+            {
+                "name": "Tomato",
+                "quantity": 3,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 4
+            },
+            {
+                "name": "Potato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "cubed",
+                "sort_order": 5
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "cubed",
+                "sort_order": 6
+            },
+            {
+                "name": "Green Bell Pepper",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 7
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 8
+            }
+        ]
+    },
+    {
+        "title": "Chicken Inasal",
+        "slug": "chicken-inasal",
+        "category": "meat",
+        "difficulty": "medium",
+        "prep_time": 30,
+        "cook_time": 25,
+        "servings": 4,
+        "description": "Grilled chicken marinated in calamansi, annatto oil, and lemongrass — a Bacolod classic.",
+        "instructions": "1. Blend garlic, lemongrass, ginger, and calamansi juice.\n2. Mix with annatto oil, patis, and pepper.\n3. Marinate chicken thighs for at least 2 hours.\n4. Grill over hot coals or pan-grill, basting with annatto oil.\n5. Serve with sinamak (spiced vinegar) and steamed rice.",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Thigh",
+                "quantity": 1.5,
+                "unit": "kg",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 6,
+                "unit": "cloves",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Lemon Grass",
+                "quantity": 2,
+                "unit": "stalks",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 4,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Fried Chicken",
+        "slug": "fried-chicken",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 25,
+        "servings": 4,
+        "description": "Crispy golden fried chicken — simple, satisfying, and a family favorite.",
+        "instructions": "1. Season chicken with salt, pepper, and garlic powder.\n2. Coat in flour-cornstarch mixture.\n3. Heat oil to 350°F. Fry chicken for 12-15 minutes until golden and cooked through.\n4. Drain on paper towels. Serve hot.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "quick-lunch",
+            "family-size"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Thigh",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "L",
+                "notes": "for deep frying",
+                "sort_order": 3
+            },
+            {
+                "name": "Cornstarch",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Eggs",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Pork Sinigang",
+        "slug": "pork-sinigang",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 15,
+        "cook_time": 60,
+        "servings": 4,
+        "description": "A sour tamarind-based soup with pork belly and vegetables — the ultimate Filipino comfort food.",
+        "instructions": "1. Boil pork belly in 2L water with onion and tomatoes for 45 minutes until tender.\n2. Add sinigang mix (or fresh tamarind paste).\n3. Add daikon radish, sitaw, okra, and eggplant. Cook 5 minutes.\n4. Add kangkong leaves. Turn off heat.\n5. Season with patis and sili (if desired). Serve hot with rice.",
+        "is_featured": true,
+        "tags": [
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Belly",
+                "quantity": 500,
+                "unit": "g",
+                "notes": "cubed",
+                "sort_order": 1
+            },
+            {
+                "name": "Sinigang Mix",
+                "quantity": 1,
+                "unit": "pack",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 3
+            },
+            {
+                "name": "Tomato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 4
+            },
+            {
+                "name": "Sitaw (String Beans)",
+                "quantity": 1,
+                "unit": "bundle",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Kangkong (Water Spinach)",
+                "quantity": 1,
+                "unit": "bundle",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Okra",
+                "quantity": 5,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 7
+            },
+            {
+                "name": "Eggplant",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 8
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 9
+            }
+        ]
+    },
+    {
+        "title": "Lechon Kawali",
+        "slug": "lechon-kawali",
+        "category": "meat",
+        "difficulty": "medium",
+        "prep_time": 20,
+        "cook_time": 45,
+        "servings": 4,
+        "description": "Deep-fried crispy pork belly — crunchy skin, tender meat, served with lechon sauce.",
+        "instructions": "1. Boil pork belly with garlic, bay leaves, salt, and pepper for 30-40 minutes until tender.\n2. Drain and pat dry. Refrigerate uncovered for 1 hour (or pat very dry).\n3. Score the skin. Rub with salt.\n4. Deep fry in hot oil until skin is golden and crispy, about 8-10 minutes.\n5. Let rest, chop into pieces. Serve with lechon sauce or vinegar dipping.",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Belly",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "crushed",
+                "sort_order": 2
+            },
+            {
+                "name": "Bay Leaf (Laurel)",
+                "quantity": 3,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "L",
+                "notes": "for deep frying",
+                "sort_order": 4
+            },
+            {
+                "name": "Salt",
+                "quantity": 1,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Bicol Express",
+        "slug": "bicol-express",
+        "category": "meat",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 30,
+        "servings": 4,
+        "description": "A spicy pork stew in rich coconut milk — Bicol's fiery gift to the world.",
+        "instructions": "1. Sauté garlic, onion, and ginger until fragrant.\n2. Add pork belly slices. Cook until browned.\n3. Add alamang (shrimp paste) and siling haba. Stir.\n4. Pour coconut milk. Simmer for 20 minutes until pork is tender.\n5. Add siling labuyo for extra heat.\n6. Season with salt or patis. Serve with rice.",
+        "is_featured": false,
+        "tags": [
+            "party-food",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Belly",
+                "quantity": 500,
+                "unit": "g",
+                "notes": "sliced thin",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 3
+            },
+            {
+                "name": "Ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "notes": "julienned",
+                "sort_order": 4
+            },
+            {
+                "name": "Coconut (Gata)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Pork Adobo",
+        "slug": "pork-adobo",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 50,
+        "servings": 4,
+        "description": "Rich and tangy pork belly adobo — slow-cooked to perfection.",
+        "instructions": "1. Season pork with soy sauce, vinegar, garlic, and bay leaves. Marinate 30 min.\n2. Brown pork in oil in a heavy pot.\n3. Pour in marinade plus 1 cup water. Bring to a boil.\n4. Lower heat, cover, and simmer for 45 minutes until pork is very tender.\n5. Uncover and reduce sauce until thick.\n6. Serve with steamed rice.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Belly",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "cubed",
+                "sort_order": 1
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 5,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Vinegar (Suka)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Garlic",
+                "quantity": 5,
+                "unit": "cloves",
+                "notes": "crushed",
+                "sort_order": 4
+            },
+            {
+                "name": "Bay Leaf (Laurel)",
+                "quantity": 3,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Ground Black Pepper",
+                "quantity": 1,
+                "unit": "tsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Pork Sisig",
+        "slug": "pork-sisig",
+        "category": "meat",
+        "difficulty": "medium",
+        "prep_time": 20,
+        "cook_time": 30,
+        "servings": 4,
+        "description": "Sizzling chopped pork face and belly — sour, spicy, and utterly addictive.",
+        "instructions": "1. Boil pork belly and pork face in water with garlic and bay leaves until tender.\n2. Grill or pan-fry until charred. Chop finely.\n3. In a hot pan, sauté onions and chili.\n4. Add chopped pork. Season with calamansi juice, soy sauce, and pepper.\n5. Crack an egg on top, mix as it cooks.\n6. Serve sizzling hot on a hot plate.",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Belly",
+                "quantity": 500,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Pork Sisig",
+                "quantity": 300,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 5
+            },
+            {
+                "name": "Eggs",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Pork Steak",
+        "slug": "pork-steak",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 25,
+        "servings": 4,
+        "description": "Tenderized pork chops simmered in soy-calamansi sauce with onions.",
+        "instructions": "1. Marinate pork chops in soy sauce and calamansi for 15 minutes.\n2. Heat oil. Fry pork until browned on both sides. Set aside.\n3. In same pan, sauté garlic and onion rings until soft.\n4. Pour in remaining marinade plus 1\/2 cup water. Simmer.\n5. Return pork to pan. Cook 5 minutes.\n6. Season with pepper. Serve with rice.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "quick-lunch"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Loin",
+                "quantity": 500,
+                "unit": "g",
+                "notes": "thin chops",
+                "sort_order": 1
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 4,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Onion",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "cut into rings",
+                "sort_order": 4
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Beef Bulalo",
+        "slug": "beef-bulalo",
+        "category": "meat",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 120,
+        "servings": 6,
+        "description": "A slow-cooked beef shank soup with marrow bones — rich, hearty, and soul-warming.",
+        "instructions": "1. Boil beef shank in 3L water. Skim off scum.\n2. Add onion, peppercorns, and bullion cubes. Simmer for 1.5-2 hours.\n3. Add corn on the cob and cabbage. Cook 10 minutes.\n4. Season with patis and pepper.\n5. Serve hot — don't forget to scoop out the marrow!",
+        "is_featured": true,
+        "tags": [
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Beef Bulalo",
+                "quantity": 1.5,
+                "unit": "kg",
+                "notes": "bone-in shank",
+                "sort_order": 1
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 2
+            },
+            {
+                "name": "Cabbage",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 3
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 4
+            }
+        ]
+    },
+    {
+        "title": "Beef Tapa",
+        "slug": "beef-tapa",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 120,
+        "cook_time": 10,
+        "servings": 4,
+        "description": "Sweet and garlicky cured beef — the star of the classic Tapsilog breakfast.",
+        "instructions": "1. Slice beef thinly against the grain.\n2. Marinate in soy sauce, calamansi, garlic, sugar, and pepper for 2 hours (or overnight).\n3. Heat oil in a pan. Fry beef slices in batches until caramelized.\n4. Serve with garlic fried rice and fried egg (Tapsilog!).",
+        "is_featured": false,
+        "tags": [
+            "30-minute-meals",
+            "meal-prep",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Beef Tapa",
+                "quantity": 500,
+                "unit": "g",
+                "notes": "thinly sliced",
+                "sort_order": 1
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 4,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Sugar (White)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Beef Kaldereta",
+        "slug": "beef-kaldereta",
+        "category": "meat",
+        "difficulty": "medium",
+        "prep_time": 20,
+        "cook_time": 90,
+        "servings": 6,
+        "description": "A rich tomato-based beef stew with liver spread, potatoes, and bell peppers.",
+        "instructions": "1. Season beef with salt and pepper. Brown in oil. Set aside.\n2. Sauté garlic, onion, and tomatoes until soft.\n3. Add kaldereta sauce mix, tomato sauce, and 2 cups water.\n4. Return beef to pot. Simmer for 1 hour until tender.\n5. Add liver spread (dissolved in water), potatoes, carrots, and bell peppers.\n6. Simmer 15 more minutes. Season with salt and pepper.",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Beef Kaldereta Cut",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "cubed",
+                "sort_order": 1
+            },
+            {
+                "name": "Caldereta Sauce Mix",
+                "quantity": 1,
+                "unit": "pack",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 4
+            },
+            {
+                "name": "Tomato",
+                "quantity": 3,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 5
+            },
+            {
+                "name": "Potato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "cubed",
+                "sort_order": 6
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "cubed",
+                "sort_order": 7
+            },
+            {
+                "name": "Green Bell Pepper",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 8
+            }
+        ]
+    },
+    {
+        "title": "Beef Mechado",
+        "slug": "beef-mechado",
+        "category": "meat",
+        "difficulty": "medium",
+        "prep_time": 20,
+        "cook_time": 90,
+        "servings": 6,
+        "description": "A tomato-based beef stew with potatoes, carrots, and bell peppers — slightly sweet and tangy.",
+        "instructions": "1. Marinate beef in soy sauce and calamansi for 30 minutes.\n2. Brown beef in oil. Set aside.\n3. Sauté garlic and onion. Add tomato sauce and 2 cups water.\n4. Return beef. Add bay leaves. Simmer for 1 hour.\n5. Add potatoes and carrots. Cook 15 minutes.\n6. Add bell peppers. Cook 5 minutes. Season and serve.",
+        "is_featured": false,
+        "tags": [
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Beef Mechado Cut",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "cubed",
+                "sort_order": 1
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Tomato",
+                "quantity": 3,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Potato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 7
+            },
+            {
+                "name": "Green Bell Pepper",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 8
+            }
+        ]
+    },
+    {
+        "title": "Beef Nilaga",
+        "slug": "beef-nilaga",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 15,
+        "cook_time": 120,
+        "servings": 6,
+        "description": "A simple but deeply flavorful boiled beef soup with vegetables.",
+        "instructions": "1. Boil beef in 3L water. Skim scum.\n2. Add peppercorns, onion, and bullion cubes. Simmer 1.5 hours.\n3. Add potatoes and sayote. Cook 10 minutes.\n4. Add cabbage and saba bananas (optional). Cook 5 minutes.\n5. Season with patis. Serve hot with rice.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Beef Nilaga Cut",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 2
+            },
+            {
+                "name": "Potato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 3
+            },
+            {
+                "name": "Cabbage",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 4
+            },
+            {
+                "name": "Sayote (Chayote)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Sinigang na Isda",
+        "slug": "sinigang-na-isda",
+        "category": "seafood",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 25,
+        "servings": 4,
+        "description": "A tangy tamarind-based fish soup with vegetables — light, sour, and comforting.",
+        "instructions": "1. Boil 1.5L water with onion and tomatoes for 5 minutes.\n2. Add sinigang mix. Stir to dissolve.\n3. Add radish, okra, and sitaw. Cook 5 minutes.\n4. Gently slide in bangus slices. Simmer 10 minutes.\n5. Add kangkong leaves. Turn off heat.\n6. Season with patis and sili. Serve hot.",
+        "is_featured": true,
+        "tags": [
+            "budget-meals",
+            "30-minute-meals",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Bangus (Milkfish)",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "sliced crosswise",
+                "sort_order": 1
+            },
+            {
+                "name": "Sinigang Mix",
+                "quantity": 1,
+                "unit": "pack",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 3
+            },
+            {
+                "name": "Tomato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 4
+            },
+            {
+                "name": "Kangkong (Water Spinach)",
+                "quantity": 1,
+                "unit": "bundle",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Okra",
+                "quantity": 5,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Sitaw (String Beans)",
+                "quantity": 1,
+                "unit": "bundle",
+                "notes": null,
+                "sort_order": 7
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 8
+            }
+        ]
+    },
+    {
+        "title": "Daing na Bangus",
+        "slug": "daing-na-bangus",
+        "category": "seafood",
+        "difficulty": "easy",
+        "prep_time": 15,
+        "cook_time": 15,
+        "servings": 4,
+        "description": "Marinated milkfish fried to crispy perfection — a classic Filipino breakfast.",
+        "instructions": "1. Butterfly bangus (split open). Rinse and pat dry.\n2. Marinate in vinegar, garlic, salt, and pepper for 15 minutes.\n3. Heat oil in a pan. Fry bangus skin-side down for 5-6 minutes.\n4. Flip and fry other side until golden and crispy.\n5. Drain on paper towels. Serve with sinamak (spiced vinegar) and garlic rice.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "quick-lunch",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Bangus (Milkfish)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "butterflied",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "crushed",
+                "sort_order": 2
+            },
+            {
+                "name": "Vinegar (Suka)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Salt",
+                "quantity": 1,
+                "unit": "tsp",
+                "notes": null,
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Sweet and Sour Fish",
+        "slug": "sweet-and-sour-fish",
+        "category": "seafood",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 20,
+        "servings": 4,
+        "description": "Crispy fried fish fillet in a tangy-sweet sauce with vegetables.",
+        "instructions": "1. Season tilapia with salt and pepper. Dust with cornstarch.\n2. Deep fry until golden and crispy. Set aside.\n3. In a pan, sauté garlic, onion, and bell pepper.\n4. Add tomato sauce, sugar, vinegar, and 1\/2 cup water. Simmer.\n5. Thicken with cornstarch slurry if desired.\n6. Pour sauce over fried fish. Serve with rice.",
+        "is_featured": false,
+        "tags": [
+            "party-food",
+            "quick-lunch"
+        ],
+        "ingredients": [
+            {
+                "name": "Tilapia",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "filleted",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 3
+            },
+            {
+                "name": "Cornstarch",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Tomato",
+                "quantity": 3,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Sugar (White)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Vinegar (Suka)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 7
+            },
+            {
+                "name": "Green Bell Pepper",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "cubed",
+                "sort_order": 8
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": "for frying",
+                "sort_order": 9
+            }
+        ]
+    },
+    {
+        "title": "Adobong Pusit",
+        "slug": "adobong-pusit",
+        "category": "seafood",
+        "difficulty": "medium",
+        "prep_time": 10,
+        "cook_time": 20,
+        "servings": 4,
+        "description": "Squid adobo in its own ink — tender, savory-sour, and jet black.",
+        "instructions": "1. Clean squid. Remove the ink sac carefully and set aside to reserve the ink.\n2. Heat oil. Sauté garlic, onion, and tomatoes.\n3. Add squid. Cook for 3 minutes until it releases liquid.\n4. Add soy sauce, vinegar, and squid ink. Do not stir.\n5. Let it boil for 5 minutes, then stir.\n6. Season with salt and pepper. Simmer 5 more minutes. Serve with rice.",
+        "is_featured": true,
+        "tags": [
+            "budget-meals",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Squid (Pusit)",
+                "quantity": 500,
+                "unit": "g",
+                "notes": "cleaned, ink reserved",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 3
+            },
+            {
+                "name": "Tomato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 4
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Vinegar (Suka)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 7
+            }
+        ]
+    },
+    {
+        "title": "Pritong Tilapia",
+        "slug": "pritong-tilapia",
+        "category": "seafood",
+        "difficulty": "easy",
+        "prep_time": 5,
+        "cook_time": 15,
+        "servings": 4,
+        "description": "Simple pan-fried tilapia — crispy skin, tender flesh. A Filipino staple.",
+        "instructions": "1. Score tilapia on both sides. Rub with salt and pepper.\n2. Heat oil in a pan over medium-high heat.\n3. Fry tilapia for 6-8 minutes per side until golden and crispy.\n4. Drain on paper towels.\n5. Serve with toyomansi (soy sauce + calamansi) dipping sauce.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "30-minute-meals",
+            "quick-lunch"
+        ],
+        "ingredients": [
+            {
+                "name": "Tilapia",
+                "quantity": 4,
+                "unit": "pcs",
+                "notes": "whole",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "crushed",
+                "sort_order": 2
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": "for frying",
+                "sort_order": 3
+            },
+            {
+                "name": "Salt",
+                "quantity": 1,
+                "unit": "tsp",
+                "notes": null,
+                "sort_order": 4
+            }
+        ]
+    },
+    {
+        "title": "Ginisang Monggo",
+        "slug": "ginisang-monggo",
+        "category": "vegetables",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 45,
+        "servings": 6,
+        "description": "Savory mung bean stew with garlic, onions, and chicharon — hearty and budget-friendly.",
+        "instructions": "1. Boil monggo beans in 2L water until soft (about 30 minutes). Mash some beans.\n2. In a separate pan, sauté garlic, onion, and tomatoes.\n3. Add ground pork or chicharon. Cook until browned.\n4. Pour sauté into the monggo pot. Stir.\n5. Add dahon ng sili. Cook 5 minutes.\n6. Season with patis and pepper. Serve with rice.",
+        "is_featured": true,
+        "tags": [
+            "budget-meals",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Monggo Beans",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 3
+            },
+            {
+                "name": "Tomato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 4
+            },
+            {
+                "name": "Ground Pork",
+                "quantity": 200,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Dahon ng Sili (Chili Leaves)",
+                "quantity": 1,
+                "unit": "bundle",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 7
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 8
+            }
+        ]
+    },
+    {
+        "title": "Laing",
+        "slug": "laing",
+        "category": "vegetables",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 40,
+        "servings": 4,
+        "description": "Creamy taro leaves cooked in spiced coconut milk — a Bicolano classic.",
+        "instructions": "1. In a pot, simmer coconut milk with ginger, garlic, onion, and siling labuyo.\n2. Add dried taro leaves (dried gabi leaves). Do not stir for 10 minutes.\n3. Once leaves have wilted, stir gently.\n4. Add shrimp paste (bagoong). Simmer for 20 minutes on low heat.\n5. Season with salt or patis. Cook until oil starts to separate.\n6. Serve with steamed rice.",
+        "is_featured": true,
+        "tags": [
+            "keto-friendly",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Coconut (Gata)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 3
+            },
+            {
+                "name": "Ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "notes": "julienned",
+                "sort_order": 4
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Pinakbet",
+        "slug": "pinakbet",
+        "category": "vegetables",
+        "difficulty": "easy",
+        "prep_time": 15,
+        "cook_time": 25,
+        "servings": 4,
+        "description": "A savory Ilocano vegetable stew with bagoong — bold, earthy, and satisfying.",
+        "instructions": "1. Sauté garlic, onion, and tomatoes in oil.\n2. Add bagoong (shrimp paste). Cook for 3 minutes.\n3. Add pork belly slices. Brown slightly.\n4. Pour 1 cup water. Add kalabasa, sitaw, okra, and ampalaya.\n5. Cover and simmer for 15 minutes until vegetables are tender.\n6. Season with pepper. Do not overcook vegetables. Serve with rice.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Belly",
+                "quantity": 200,
+                "unit": "g",
+                "notes": "sliced thin",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 3
+            },
+            {
+                "name": "Tomato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 4
+            },
+            {
+                "name": "Kalabasa (Squash)",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "cubed",
+                "sort_order": 5
+            },
+            {
+                "name": "Sitaw (String Beans)",
+                "quantity": 1,
+                "unit": "bundle",
+                "notes": "cut 2 inches",
+                "sort_order": 6
+            },
+            {
+                "name": "Okra",
+                "quantity": 5,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 7
+            },
+            {
+                "name": "Ampalaya (Bitter Gourd)",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "seeded, sliced",
+                "sort_order": 8
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 9
+            }
+        ]
+    },
+    {
+        "title": "Chop Suey",
+        "slug": "chop-suey",
+        "category": "vegetables",
+        "difficulty": "easy",
+        "prep_time": 15,
+        "cook_time": 15,
+        "servings": 4,
+        "description": "A quick stir-fry of mixed vegetables with meat — colorful and light.",
+        "instructions": "1. Blanch broccoli, cauliflower, and carrots in boiling water for 2 minutes. Drain.\n2. Heat oil. Sauté garlic and onion.\n3. Add chicken or pork strips. Cook until browned.\n4. Add soy sauce, oyster sauce, and 1\/2 cup water.\n5. Add all vegetables. Stir-fry for 3-4 minutes.\n6. Thicken with cornstarch slurry. Serve with rice.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "30-minute-meals",
+            "quick-lunch"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Breast",
+                "quantity": 300,
+                "unit": "g",
+                "notes": "strips",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 3
+            },
+            {
+                "name": "Cabbage",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 4
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 5
+            },
+            {
+                "name": "Sayote (Chayote)",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "julienned",
+                "sort_order": 6
+            },
+            {
+                "name": "Green Bell Pepper",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 7
+            },
+            {
+                "name": "Cornstarch",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 8
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 9
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 10
+            }
+        ]
+    },
+    {
+        "title": "Lumpiang Shanghai",
+        "slug": "lumpiang-shanghai",
+        "category": "vegetables",
+        "difficulty": "medium",
+        "prep_time": 30,
+        "cook_time": 15,
+        "servings": 6,
+        "description": "Crispy fried spring rolls stuffed with seasoned ground pork — every party needs these.",
+        "instructions": "1. Mix ground pork, grated carrot, onion, garlic, egg, salt, and pepper.\n2. Lay a lumpia wrapper. Place 1 tbsp filling near the edge.\n3. Roll tightly, folding in sides. Seal with water.\n4. Repeat until all filling is used.\n5. Heat oil to 350°F. Deep fry in batches until golden brown.\n6. Drain on paper towels. Serve with sweet chili sauce.",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Ground Pork",
+                "quantity": 500,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "grated",
+                "sort_order": 4
+            },
+            {
+                "name": "Eggs",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "L",
+                "notes": "for deep frying",
+                "sort_order": 6
+            },
+            {
+                "name": "Salt",
+                "quantity": 1,
+                "unit": "tsp",
+                "notes": null,
+                "sort_order": 7
+            }
+        ]
+    },
+    {
+        "title": "Ginisang Ampalaya",
+        "slug": "ginisang-ampalaya",
+        "category": "vegetables",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 15,
+        "servings": 4,
+        "description": "Sautéed bitter gourd with egg — simple, nutritious, and surprisingly addictive.",
+        "instructions": "1. Slice ampalaya thinly. Rub with salt and rinse to reduce bitterness.\n2. Heat oil. Sauté garlic and onion.\n3. Add ground pork. Cook until browned.\n4. Add ampalaya. Stir-fry for 3 minutes.\n5. Push to the side. Scramble eggs on the empty side.\n6. Mix everything together. Season with salt and pepper. Serve.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "30-minute-meals",
+            "quick-lunch"
+        ],
+        "ingredients": [
+            {
+                "name": "Ampalaya (Bitter Gourd)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "seeded, sliced",
+                "sort_order": 1
+            },
+            {
+                "name": "Eggs",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 4
+            },
+            {
+                "name": "Ground Pork",
+                "quantity": 200,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Pancit Canton",
+        "slug": "pancit-canton",
+        "category": "noodles",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 15,
+        "servings": 6,
+        "description": "The birthday noodle dish! Stir-fried egg noodles with meat and vegetables.",
+        "instructions": "1. Soak pancit canton noodles in warm water until softened. Drain.\n2. Heat oil. Sauté garlic and onion.\n3. Add chicken strips and shrimp. Cook until done.\n4. Add soy sauce, oyster sauce, and 1 cup broth.\n5. Add carrots, cabbage, and sayote. Cook 2 minutes.\n6. Add noodles. Toss until well-coated. Season and serve with calamansi.",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pancit Canton Noodles",
+                "quantity": 2,
+                "unit": "pack",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Chicken Breast",
+                "quantity": 200,
+                "unit": "g",
+                "notes": "strips",
+                "sort_order": 2
+            },
+            {
+                "name": "Shrimp",
+                "quantity": 200,
+                "unit": "g",
+                "notes": "peeled",
+                "sort_order": 3
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 4
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 5
+            },
+            {
+                "name": "Cabbage",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "shredded",
+                "sort_order": 6
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "julienned",
+                "sort_order": 7
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 8
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 9
+            }
+        ]
+    },
+    {
+        "title": "Pancit Bihon",
+        "slug": "pancit-bihon",
+        "category": "noodles",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 15,
+        "servings": 6,
+        "description": "Thin rice noodle stir-fry — light, savory, packed with vegetables.",
+        "instructions": "1. Soak bihon noodles in water until soft. Drain.\n2. Heat oil. Sauté garlic and onion.\n3. Add chicken or pork strips and shrimp. Cook.\n4. Add soy sauce, patis, and 1 cup broth.\n5. Add vegetables. Cook 2 minutes.\n6. Add noodles. Toss until liquid is absorbed. Season and serve.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "quick-lunch",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pancit Bihon (Rice Noodles)",
+                "quantity": 500,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Chicken Breast",
+                "quantity": 200,
+                "unit": "g",
+                "notes": "strips",
+                "sort_order": 2
+            },
+            {
+                "name": "Shrimp",
+                "quantity": 200,
+                "unit": "g",
+                "notes": "peeled",
+                "sort_order": 3
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 4
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 5
+            },
+            {
+                "name": "Cabbage",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "shredded",
+                "sort_order": 6
+            },
+            {
+                "name": "Carrot",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "julienned",
+                "sort_order": 7
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 8
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 1,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 9
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 10
+            }
+        ]
+    },
+    {
+        "title": "Sotanghon Soup",
+        "slug": "sotanghon-soup",
+        "category": "noodles",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 20,
+        "servings": 4,
+        "description": "A comforting clear soup with glass noodles, chicken, and ginger.",
+        "instructions": "1. Heat oil. Sauté garlic, onion, and ginger.\n2. Add shredded chicken. Cook 2 minutes.\n3. Pour 1.5L chicken broth. Bring to a boil.\n4. Add sotanghon noodles. Cook for 5 minutes until tender.\n5. Add patis, pepper, and dahon ng sili.\n6. Serve hot with calamansi on the side.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "30-minute-meals",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Sotanghon (Glass Noodles)",
+                "quantity": 200,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Chicken Breast",
+                "quantity": 200,
+                "unit": "g",
+                "notes": "shredded",
+                "sort_order": 2
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 4
+            },
+            {
+                "name": "Ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "notes": "julienned",
+                "sort_order": 5
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 7
+            }
+        ]
+    },
+    {
+        "title": "Filipino Carbonara",
+        "slug": "filipino-carbonara",
+        "category": "noodles",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 20,
+        "servings": 4,
+        "description": "Creamy Filipino-style carbonara with bacon, cheese, and evaporated milk — no eggs.",
+        "instructions": "1. Cook spaghetti according to package directions. Drain, reserve 1 cup pasta water.\n2. In a pan, fry bacon until crispy. Remove and crumble.\n3. Sauté garlic and onion in bacon fat.\n4. Add evaporated milk and cream cheese. Stir until smooth.\n5. Toss in pasta, bacon, and grated cheddar cheese.\n6. Season with salt and pepper. Serve hot with extra cheese on top.",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "quick-lunch",
+            "family-size"
+        ],
+        "ingredients": [
+            {
+                "name": "Spaghetti Pasta",
+                "quantity": 500,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 3
+            },
+            {
+                "name": "Evaporated Milk",
+                "quantity": 1,
+                "unit": "can",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Cheddar Cheese",
+                "quantity": 100,
+                "unit": "g",
+                "notes": "grated",
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Pancit Palabok",
+        "slug": "pancit-palabok",
+        "category": "noodles",
+        "difficulty": "medium",
+        "prep_time": 20,
+        "cook_time": 20,
+        "servings": 6,
+        "description": "Rice noodles smothered in a savory orange sauce with pork, shrimp, and eggs.",
+        "instructions": "1. Soak bihon noodles until soft. Cook in boiling water for 2 minutes. Drain.\n2. Make the sauce: sauté garlic, onion, and annatto in oil.\n3. Add ground pork. Cook until browned.\n4. Add shrimp broth, patis, and cornstarch slurry. Simmer until thick.\n5. Arrange noodles on a plate. Pour sauce over.\n6. Top with boiled eggs, shrimp, chicharon, green onions, and calamansi.",
+        "is_featured": false,
+        "tags": [
+            "party-food",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pancit Bihon (Rice Noodles)",
+                "quantity": 500,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Ground Pork",
+                "quantity": 300,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Shrimp",
+                "quantity": 200,
+                "unit": "g",
+                "notes": "peeled",
+                "sort_order": 3
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 4
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 5
+            },
+            {
+                "name": "Cornstarch",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Leche Flan",
+        "slug": "leche-flan",
+        "category": "dessert",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 45,
+        "servings": 8,
+        "description": "A rich and creamy caramel custard — smooth, silky, and absolutely indulgent.",
+        "instructions": "1. Make caramel: melt sugar in a pan until golden amber. Pour into llanera (mold).\n2. Beat eggs. Add condensed milk, evaporated milk, and vanilla. Stir gently.\n3. Strain mixture through a sieve into the llaneras.\n4. Cover with foil. Steam for 30-40 minutes until set.\n5. Let cool, then refrigerate for at least 4 hours.\n6. Run knife around edges, invert onto a plate. Serve cold.",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Eggs",
+                "quantity": 6,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Condensed Milk",
+                "quantity": 1,
+                "unit": "can",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Evaporated Milk",
+                "quantity": 1,
+                "unit": "can",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Sugar (White)",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Vanilla Extract",
+                "quantity": 1,
+                "unit": "tsp",
+                "notes": null,
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Biko",
+        "slug": "biko",
+        "category": "dessert",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 45,
+        "servings": 8,
+        "description": "A sticky sweet rice cake topped with coconut caramel — a classic kakanin.",
+        "instructions": "1. Cook glutinous rice in coconut milk and water until tender.\n2. In a separate pan, combine brown sugar, coconut cream (kakang gata), and salt.\n3. Stir until sugar dissolves. Simmer until thick.\n4. Pour half the caramel into the cooked rice. Mix well.\n5. Transfer to a greased tray. Flatten. Pour remaining caramel on top.\n6. Broil for 5-7 minutes until top is golden. Let set then slice.",
+        "is_featured": false,
+        "tags": [
+            "party-food",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Glutinous Rice (Malagkit)",
+                "quantity": 2,
+                "unit": "cups",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Coconut (Gata)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Brown Sugar",
+                "quantity": 2,
+                "unit": "cups",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Coconut Milk (Kakang Gata)",
+                "quantity": 1,
+                "unit": "can",
+                "notes": null,
+                "sort_order": 4
+            }
+        ]
+    },
+    {
+        "title": "Banana Q",
+        "slug": "banana-q",
+        "category": "dessert",
+        "difficulty": "easy",
+        "prep_time": 5,
+        "cook_time": 10,
+        "servings": 4,
+        "description": "Caramelized plantain skewers — crispy caramel outside, soft sweet inside.",
+        "instructions": "1. Peel saba bananas. Roll each in brown sugar to coat.\n2. Heat oil in a pan.\n3. Fry bananas, turning occasionally, until caramelized (about 5-7 minutes).\n4. Skewer each banana onto a bamboo stick.\n5. Let cool slightly. Serve as is or with ice cream.",
+        "is_featured": false,
+        "tags": [
+            "quick-lunch",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Ripe Plantain (Saba)",
+                "quantity": 4,
+                "unit": "pcs",
+                "notes": "ripe but firm",
+                "sort_order": 1
+            },
+            {
+                "name": "Brown Sugar",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": "for frying",
+                "sort_order": 3
+            }
+        ]
+    },
+    {
+        "title": "Turon",
+        "slug": "turon",
+        "category": "dessert",
+        "difficulty": "easy",
+        "prep_time": 15,
+        "cook_time": 10,
+        "servings": 6,
+        "description": "Deep-fried banana and jackfruit spring rolls coated in caramelized sugar.",
+        "instructions": "1. Slice saba bananas lengthwise into strips.\n2. Lay a lumpia wrapper. Place banana strip and a few jackfruit strips.\n3. Sprinkle with brown sugar. Roll tightly, fold sides, seal with water.\n4. Heat oil to 350°F. Fry rolls until golden brown and caramelized.\n5. Drain on paper towels. Roll in additional sugar while hot if desired.\n6. Serve warm with vanilla ice cream.",
+        "is_featured": true,
+        "tags": [
+            "quick-lunch",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Ripe Plantain (Saba)",
+                "quantity": 6,
+                "unit": "pcs",
+                "notes": "halved lengthwise",
+                "sort_order": 1
+            },
+            {
+                "name": "Jackfruit (Langka)",
+                "quantity": 100,
+                "unit": "g",
+                "notes": "sliced",
+                "sort_order": 2
+            },
+            {
+                "name": "Brown Sugar",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "L",
+                "notes": "for deep frying",
+                "sort_order": 4
+            }
+        ]
+    },
+    {
+        "title": "Halo-Halo",
+        "slug": "halo-halo",
+        "category": "dessert",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 0,
+        "servings": 4,
+        "description": "The iconic Filipino shaved ice dessert — a symphony of sweet toppings in a glass.",
+        "instructions": "1. Fill a tall glass with shaved ice.\n2. Add sweetened jackfruit, macapuno (coconut strings), and saba bananas.\n3. Add leche flan slices and purple yam (ube) jam. Add red beans.\n4. Top with more shaved ice. Drizzle with evaporated milk.\n5. Add a scoop of ice cream (ube or vanilla).\n6. Top with pinipig (crisp rice). Serve immediately — mix before eating!",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Evaporated Milk",
+                "quantity": 1,
+                "unit": "can",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Jackfruit (Langka)",
+                "quantity": 100,
+                "unit": "g",
+                "notes": "sweetened, sliced",
+                "sort_order": 2
+            },
+            {
+                "name": "Purple Yam (Ube)",
+                "quantity": 100,
+                "unit": "g",
+                "notes": "mashed",
+                "sort_order": 3
+            },
+            {
+                "name": "Ripe Plantain (Saba)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "boiled, sliced",
+                "sort_order": 4
+            },
+            {
+                "name": "Coconut Milk (Kakang Gata)",
+                "quantity": 1,
+                "unit": "can",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Sugar (White)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Arroz Caldo",
+        "slug": "arroz-caldo",
+        "category": "soup",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 35,
+        "servings": 4,
+        "description": "A savory Filipino rice porridge with chicken, ginger, and garlic — ultimate comfort food.",
+        "instructions": "1. Heat oil. Sauté ginger, garlic, and onion until fragrant.\n2. Add chicken thighs. Cook until lightly browned.\n3. Add rice. Stir for 2 minutes.\n4. Pour in 2L water or broth. Bring to a boil.\n5. Lower heat and simmer for 25 minutes, stirring occasionally.\n6. Season with patis and pepper. Serve with calamansi, green onions, and fried garlic.",
+        "is_featured": true,
+        "tags": [
+            "budget-meals",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Thigh",
+                "quantity": 400,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "White Rice",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "notes": "julienned",
+                "sort_order": 3
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 4
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 5
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 7
+            }
+        ]
+    },
+    {
+        "title": "Sinampalukang Manok",
+        "slug": "sinampalukang-manok",
+        "category": "soup",
+        "difficulty": "medium",
+        "prep_time": 15,
+        "cook_time": 40,
+        "servings": 4,
+        "description": "A sour chicken soup with tamarind leaves and fresh ginger — tangy and heartwarming.",
+        "instructions": "1. Boil chicken in 2L water with ginger, onion, and garlic for 30 minutes.\n2. Add sinigang mix or fresh tamarind. Stir.\n3. Add dahon ng sili (tamarind leaves). Cook 5 minutes.\n4. Season with patis and pepper.\n5. Serve hot with steamed rice and patis with calamansi on the side.",
+        "is_featured": false,
+        "tags": [
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Thigh",
+                "quantity": 500,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Sinigang Mix",
+                "quantity": 1,
+                "unit": "pack",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "notes": "smashed",
+                "sort_order": 3
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "smashed",
+                "sort_order": 4
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "quartered",
+                "sort_order": 5
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Tinolang Tahong",
+        "slug": "tinolang-tahong",
+        "category": "soup",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 20,
+        "servings": 4,
+        "description": "A light and flavorful mussel soup with ginger and vegetables.",
+        "instructions": "1. Clean mussels thoroughly, scrubbing shells and removing beards.\n2. Heat oil. Sauté ginger, garlic, and onion.\n3. Add mussels. Stir for 2 minutes.\n4. Pour 1L water. Add sayote wedges.\n5. Cover and boil until mussels open (5-7 minutes).\n6. Add dahon ng sili. Season with patis. Serve hot.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "30-minute-meals",
+            "quick-lunch"
+        ],
+        "ingredients": [
+            {
+                "name": "Tahong (Mussels)",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "cleaned",
+                "sort_order": 1
+            },
+            {
+                "name": "Ginger",
+                "quantity": 1,
+                "unit": "thumb-sized",
+                "notes": "julienned",
+                "sort_order": 2
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 4
+            },
+            {
+                "name": "Sayote (Chayote)",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "wedged",
+                "sort_order": 5
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 7
+            }
+        ]
+    },
+    {
+        "title": "Chicken Sopas",
+        "slug": "chicken-sopas",
+        "category": "soup",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 25,
+        "servings": 4,
+        "description": "Creamy chicken and elbow macaroni soup — the breakfast soup that tastes like childhood.",
+        "instructions": "1. Sauté garlic and onion in butter.\n2. Add shredded chicken and cook 2 minutes.\n3. Pour 1.5L water or broth. Add chicken bullion.\n4. Once boiling, add elbow macaroni. Cook 8 minutes.\n5. Add evaporated milk and grated cheese. Stir.\n6. Season with salt and pepper. Garnish with hotdog slices and green onions.",
+        "is_featured": true,
+        "tags": [
+            "budget-meals",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Breast",
+                "quantity": 300,
+                "unit": "g",
+                "notes": "shredded",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "chopped",
+                "sort_order": 3
+            },
+            {
+                "name": "Evaporated Milk",
+                "quantity": 1,
+                "unit": "can",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Cheddar Cheese",
+                "quantity": 100,
+                "unit": "g",
+                "notes": "grated",
+                "sort_order": 5
+            },
+            {
+                "name": "Butter",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Bulanglang (Vegetable Stew)",
+        "slug": "bulanglang-vegetable-stew",
+        "category": "soup",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 25,
+        "servings": 4,
+        "description": "A light sour vegetable soup with pork — kamias-based, refreshing, and simple.",
+        "instructions": "1. Boil pork belly in 1.5L water for 20 minutes.\n2. Add souring agent (kamias or sinigang mix).\n3. Add kalabasa, sitaw, and okra. Cook 5 minutes.\n4. Season with patis and sili. Serve hot with rice.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Belly",
+                "quantity": 200,
+                "unit": "g",
+                "notes": "sliced",
+                "sort_order": 1
+            },
+            {
+                "name": "Sinigang Mix",
+                "quantity": 1,
+                "unit": "pack",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Kalabasa (Squash)",
+                "quantity": 500,
+                "unit": "g",
+                "notes": "cubed",
+                "sort_order": 3
+            },
+            {
+                "name": "Sitaw (String Beans)",
+                "quantity": 1,
+                "unit": "bundle",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Okra",
+                "quantity": 5,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Ensaladang Talong",
+        "slug": "ensaladang-talong",
+        "category": "vegetables",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 10,
+        "servings": 4,
+        "description": "Smoky grilled eggplant salad with tomatoes, onions, and tangy dressing.",
+        "instructions": "1. Grill or broil eggplants until skin chars and flesh softens.\n2. Peel off skin. Mash or shred the flesh.\n3. Mix with diced tomatoes and sliced onions.\n4. Drizzle with vinegar, patis, and cracked pepper.\n5. Serve as a side dish or with fried fish.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "30-minute-meals",
+            "quick-lunch"
+        ],
+        "ingredients": [
+            {
+                "name": "Eggplant",
+                "quantity": 3,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Tomato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "diced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 3
+            },
+            {
+                "name": "Vinegar (Suka)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Fish Sauce (Patis)",
+                "quantity": 1,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Adobong Kangkong",
+        "slug": "adobong-kangkong",
+        "category": "vegetables",
+        "difficulty": "easy",
+        "prep_time": 5,
+        "cook_time": 10,
+        "servings": 4,
+        "description": "Water spinach sautéed adobo-style with soy sauce, vinegar, and garlic.",
+        "instructions": "1. Separate kangkong leaves from stems. Cut stems into 2-inch pieces.\n2. Heat oil. Sauté garlic until golden.\n3. Add soy sauce and vinegar. Let boil for 1 minute (don\\'t stir).\n4. Add kangkong stems first. Cook 2 minutes.\n5. Add leaves. Toss for 1 minute until just wilted.\n6. Season with pepper. Serve immediately.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "30-minute-meals",
+            "quick-lunch"
+        ],
+        "ingredients": [
+            {
+                "name": "Kangkong (Water Spinach)",
+                "quantity": 2,
+                "unit": "bundles",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 4,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Vinegar (Suka)",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 1,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            }
+        ]
+    },
+    {
+        "title": "Puto (Steamed Rice Cake)",
+        "slug": "puto-steamed-rice-cake",
+        "category": "dessert",
+        "difficulty": "medium",
+        "prep_time": 10,
+        "cook_time": 20,
+        "servings": 12,
+        "description": "Soft and fluffy steamed rice cakes — perfect with dinuguan or as a snack.",
+        "instructions": "1. Mix rice flour, sugar, baking powder, and salt.\n2. Add coconut milk and water. Stir until smooth.\n3. Fold in melted butter and few drops of food coloring (optional).\n4. Pour into greased puto molds or small cups, filling 3\/4 full.\n5. Top each with a cheese slice.\n6. Steam for 15-20 minutes until a toothpick comes out clean.",
+        "is_featured": false,
+        "tags": [
+            "party-food",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "All-Purpose Flour",
+                "quantity": 2,
+                "unit": "cups",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Sugar (White)",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Coconut (Gata)",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Butter",
+                "quantity": 50,
+                "unit": "g",
+                "notes": "melted",
+                "sort_order": 4
+            },
+            {
+                "name": "Cheddar Cheese",
+                "quantity": 100,
+                "unit": "g",
+                "notes": "sliced",
+                "sort_order": 5
+            },
+            {
+                "name": "Eggs",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Maja Blanca",
+        "slug": "maja-blanca",
+        "category": "dessert",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 30,
+        "servings": 8,
+        "description": "Creamy coconut milk pudding with corn — silky, sweet, and topped with latik.",
+        "instructions": "1. Mix coconut milk, cornstarch, sugar, and corn kernels in a pot.\n2. Stir continuously over medium heat until thickened.\n3. Pour into a greased dish or tray. Smooth the top.\n4. Let cool and refrigerate for 2 hours until set.\n5. Top with toasted coconut curds (latik).\n6. Slice and serve cold.",
+        "is_featured": false,
+        "tags": [
+            "party-food",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Coconut (Gata)",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Cornstarch",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 2
+            },
+            {
+                "name": "Sugar (White)",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Evaporated Milk",
+                "quantity": 1,
+                "unit": "can",
+                "notes": null,
+                "sort_order": 4
+            }
+        ]
+    },
+    {
+        "title": "Inihaw na Pusit",
+        "slug": "inihaw-na-pusit",
+        "category": "seafood",
+        "difficulty": "medium",
+        "prep_time": 20,
+        "cook_time": 10,
+        "servings": 4,
+        "description": "Grilled stuffed squid marinated in soy-calamansi sauce — smoky and tender.",
+        "instructions": "1. Clean squid. Remove head and ink sac (reserve tentacles).\n2. Chop tentacles, mix with minced garlic, onion, tomatoes, salt, and pepper.\n3. Stuff tentacle mixture into squid tubes. Secure with toothpicks.\n4. Marinate in soy sauce, calamansi, and pepper for 15 minutes.\n5. Grill over charcoal or in a grill pan for 3-4 minutes per side.\n6. Baste with remaining marinade. Serve with spicy vinegar dip.",
+        "is_featured": true,
+        "tags": [
+            "30-minute-meals",
+            "party-food"
+        ],
+        "ingredients": [
+            {
+                "name": "Squid (Pusit)",
+                "quantity": 1,
+                "unit": "kg",
+                "notes": "medium-sized, cleaned",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "minced",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "minced",
+                "sort_order": 3
+            },
+            {
+                "name": "Tomato",
+                "quantity": 2,
+                "unit": "pcs",
+                "notes": "diced",
+                "sort_order": 4
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": "for basting",
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Crispy Pata",
+        "slug": "crispy-pata",
+        "category": "meat",
+        "difficulty": "hard",
+        "prep_time": 30,
+        "cook_time": 120,
+        "servings": 6,
+        "description": "Deep-fried crispy pork leg — the ultimate party centerpiece with crackling skin.",
+        "instructions": "1. Clean pork leg. Score the skin.\n2. Boil in water with garlic, peppercorns, bay leaves, and salt for 1 hour.\n3. Drain and pat dry. Refrigerate uncovered for 2 hours (or overnight).\n4. Deep fry in 375°F oil for 15-20 minutes until golden and crispy.\n5. Drain and let rest.\n6. Serve with soy-vinegar dipping sauce with chopped garlic and sili.",
+        "is_featured": true,
+        "tags": [
+            "party-food",
+            "family-size",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Belly",
+                "quantity": 1.5,
+                "unit": "kg",
+                "notes": "whole piece with skin",
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 1,
+                "unit": "whole head",
+                "notes": "smashed",
+                "sort_order": 2
+            },
+            {
+                "name": "Bay Leaf (Laurel)",
+                "quantity": 3,
+                "unit": "pcs",
+                "notes": null,
+                "sort_order": 3
+            },
+            {
+                "name": "Salt",
+                "quantity": 2,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Cooking Oil (Frying)",
+                "quantity": 2,
+                "unit": "L",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Vinegar (Suka)",
+                "quantity": 1,
+                "unit": "cup",
+                "notes": "for dipping",
+                "sort_order": 6
+            }
+        ]
+    },
+    {
+        "title": "Tokwa't Baboy",
+        "slug": "tokwat-baboy",
+        "category": "meat",
+        "difficulty": "easy",
+        "prep_time": 10,
+        "cook_time": 25,
+        "servings": 4,
+        "description": "Fried tofu and pork belly in tangy vinegar-soy dipping sauce — perfect pulutan or breakfast.",
+        "instructions": "1. Boil pork belly in salted water until tender. Slice thinly.\n2. Fry tofu cubes in oil until golden and crispy.\n3. For dipping sauce: mix vinegar, soy sauce, chopped garlic, onion, and sili.\n4. Arrange pork and tofu on a plate.\n5. Pour dipping sauce over or serve on the side.\n6. Garnish with chopped green onions. Serve with rice or as pulutan.",
+        "is_featured": false,
+        "tags": [
+            "budget-meals",
+            "quick-lunch",
+            "filipino-classics"
+        ],
+        "ingredients": [
+            {
+                "name": "Pork Belly",
+                "quantity": 300,
+                "unit": "g",
+                "notes": null,
+                "sort_order": 1
+            },
+            {
+                "name": "Garlic",
+                "quantity": 3,
+                "unit": "cloves",
+                "notes": "chopped",
+                "sort_order": 2
+            },
+            {
+                "name": "Onion",
+                "quantity": 1,
+                "unit": "pcs",
+                "notes": "sliced",
+                "sort_order": 3
+            },
+            {
+                "name": "Soy Sauce (Toyo)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 4
+            },
+            {
+                "name": "Vinegar (Suka)",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": null,
+                "sort_order": 5
+            },
+            {
+                "name": "Cooking Oil",
+                "quantity": 3,
+                "unit": "tbsp",
+                "notes": "for frying",
+                "sort_order": 6
+            }
+        ]
+    }
+]

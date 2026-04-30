@@ -42,6 +42,11 @@ class Recipe extends Model
         return $this->belongsToMany(Tag::class, 'recipe_tag');
     }
 
+    public function category(): BelongsTo
+    {
+        return $this->belongsTo(Category::class);
+    }
+
     public function promoHighlights(): BelongsToMany
     {
         return $this->belongsToMany(PromoHighlight::class);

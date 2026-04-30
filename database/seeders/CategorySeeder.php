@@ -18,6 +18,7 @@ class CategorySeeder extends Seeder
             ['name' => 'Noodles',       'slug' => 'noodles',     'icon' => '🍜', 'sort_order' => 6],
             ['name' => 'Pantry',        'slug' => 'pantry',      'icon' => '🧂', 'sort_order' => 7],
             ['name' => 'Dessert',       'slug' => 'dessert',     'icon' => '🍰', 'sort_order' => 8],
+            ['name' => 'Soup',          'slug' => 'soup',        'icon' => '🥣', 'sort_order' => 9],
         ];
 
         foreach ($categories as $category) {
