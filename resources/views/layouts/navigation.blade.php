@@ -73,6 +73,9 @@
             <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
                 {{ __('Dashboard') }}
             </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('prices.import')" :active="request()->routeIs('prices.*')">
+                {{ __('Import Prices') }}
+            </x-responsive-nav-link>
         </div>
 
         <!-- Responsive Settings Options -->
