@@ -63,11 +63,14 @@
                             </div>
                         </div>
 
-                        <!-- Ingredient list with multiplier -->
-                        <ul class="space-y-3">
+                        <!-- Ingredient list with checkbox selection + serving adjuster -->
+                        <form method="POST" action="{{ route('grocery-list.add', $recipe) }}">
+                            @csrf
+                            <input type="hidden" name="branch_id" x-bind:value="Alpine.store('branch')?.id ?? ''">
                             @foreach($recipe->ingredients as $ingredient)
-                            <li class="flex items-start gap-2 text-sm">
-                                <input type="checkbox" class="mt-0.5 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500">
+                            <label class="flex items-start gap-2 text-sm py-1.5 cursor-pointer hover:bg-gray-50 rounded px-1 -mx-1 transition-colors">
+                                <input type="checkbox" name="ingredients[]" value="{{ $ingredient->id }}"
+                                       class="mt-0.5 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500" checked>
                                 <span>
                                     <span x-text="adjust({{ $ingredient->pivot->quantity }})" class="font-medium"></span>
                                     <span class="text-gray-600">{{ $ingredient->pivot->unit }}</span>
@@ -76,25 +79,21 @@
                                         <span class="text-gray-400 italic">({{ $ingredient->pivot->notes }})</span>
                                     @endif
                                 </span>
-                            </li>
+                                <input type="hidden" name="quantities[{{ $ingredient->id }}]"
+                                       x-bind:value="adjust({{ $ingredient->pivot->quantity }})">
+                            </label>
                             @endforeach
-                        </ul>
 
-                        <!-- Branch Selector -->
-                        <div class="mb-4">
-                            <x-branch-selector :branches="$branches" :selected="session('grocery_list.branch_id')" />
-                        </div>
-                        <!-- Add to Grocery List -->
-                        <div class="mt-6">
-                            <form method="POST" action="{{ route('grocery-list.add', $recipe) }}">
-                                @csrf
-                                <input type="hidden" name="branch_id" x-bind:value="Alpine.store('branch')?.id ?? ''">
-                                <button type="submit" class="w-full inline-flex items-center justify-center px-4 py-3 bg-indigo-600 text-white font-medium rounded-lg hover:bg-indigo-700 transition-colors text-sm shadow-sm">
-                                    <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 100 4 2 2 0 000-4z"/></svg>
-                                    Add to Grocery List
-                                </button>
-                            </form>
-                        </div>
+                            <!-- Branch Selector -->
+                            <div class="mt-4 mb-4">
+                                <x-branch-selector :branches="$branches" :selected="session('grocery_list.branch_id')" />
+                            </div>
+
+                            <button type="submit" class="w-full inline-flex items-center justify-center px-4 py-3 bg-indigo-600 text-white font-medium rounded-lg hover:bg-indigo-700 transition-colors text-sm shadow-sm">
+                                <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 100 4 2 2 0 000-4z"/></svg>
+                                Add to Grocery List
+                            </button>
+                        </form>
                     </div>
                 </div>
 

@@ -21,8 +21,9 @@ class GroceryListService
 
     /**
      * Add a recipe's ingredients to the grocery list cart.
+     * Optionally filter by checked ingredient IDs and override quantities.
      */
-    public function addRecipe(Recipe $recipe, int $branchId): void
+    public function addRecipe(Recipe $recipe, int $branchId, array $checkedIds = [], array $overrideQuantities = []): void
     {
         $cart = $this->getCart();
 
@@ -38,6 +39,11 @@ class GroceryListService
         // Resolve ingredients with prices
         $groceryItems = $recipe->getGroceryList($branchId);
 
+        // Filter by checked ingredients if any were specified
+        if (! empty($checkedIds)) {
+            $groceryItems = $groceryItems->filter(fn($item) => in_array($item->id, $checkedIds));
+        }
+
         // Add recipe ID to cart
         $cart['recipes'][] = $recipe->id;
 
@@ -45,33 +51,50 @@ class GroceryListService
         foreach ($groceryItems as $item) {
             $ingredientId = $item->id;
 
+            // Apply serving-adjusted quantity if provided
+            $itemQty = isset($overrideQuantities[$ingredientId])
+                ? (float) $overrideQuantities[$ingredientId]
+                : (float) $item->quantity;
+            $originalDbQty = (float) $item->quantity;
+            $item->quantity = $itemQty;
+
             if (isset($cart['items'][$ingredientId])) {
                 // Already in cart — aggregate quantities
                 $existing = $cart['items'][$ingredientId];
-                $existing['quantity'] += (float) $item->quantity;
+                $existing['quantity'] += $itemQty;
                 $existing['recipes'][] = $recipe->id;
                 $existing['recipes'] = array_unique($existing['recipes']);
 
-                // Recompute cost
-                if ($existing['price_per_unit'] !== null) {
-                    $existing['total_cost'] = round(
-                        $existing['quantity'] * $existing['price_per_unit'],
-                        2
-                    );
+                // Recompute cost: proportional scaling avoids unit-conversion errors
+                // We scale from the existing item's stored total cost
+                $oldItemQty = (float) $existing['quantity'] - $itemQty;
+                $oldCost = (float) ($existing['total_cost'] ?? 0);
+                $newCost = $oldCost;
+                if ($oldItemQty > 0 && $oldCost > 0) {
+                    $newItemCost = ($itemQty / $oldItemQty) * $oldCost;
+                    $newCost = $oldCost + $newItemCost;
                 }
+                $existing['total_cost'] = round($newCost, 2);
 
                 $cart['items'][$ingredientId] = $existing;
             } else {
                 // New item
+                // Recompute cost with adjusted quantity
+                // Scale proportionally from original computed cost
+                $originalDbQty = $originalDbQty;
+                $adjustedCost = $item->has_price && $originalDbQty > 0
+                    ? round(($itemQty / $originalDbQty) * (float) $item->computed_cost, 2)
+                    : null;
+
                 $cart['items'][$ingredientId] = [
                     'id' => $ingredientId,
                     'name' => $item->name,
-                    'quantity' => (float) $item->quantity,
+                    'quantity' => $itemQty,
                     'unit' => $item->recipe_unit,
                     'price_per_unit' => $item->price_per_unit,
                     'price_unit' => $item->purchase_unit,
                     'purchase_price' => $item->purchase_price,
-                    'total_cost' => $item->computed_cost,
+                    'total_cost' => $adjustedCost,
                     'has_price' => $item->has_price,
                     'is_on_promo' => $item->is_on_promo,
                     'promo_price' => $item->promo_price,
@@ -170,11 +193,14 @@ class GroceryListService
                     $item['promo_label'] = $ingredient->promo_label;
                     $item['variant_label'] = $ingredient->variant_label;
 
-                    if ($ingredient->price_per_unit !== null) {
-                        $item['total_cost'] = round(
-                            $item['quantity'] * (float) $ingredient->price_per_unit,
-                            2
-                        );
+                    if ($ingredient->computed_cost !== null) {
+                        // Proportional scaling from ingredient's computed cost
+                        // Uses UnitConverter-accurate per-recipe cost, not raw price_per_unit
+                        $baseQty = (float) $ingredient->quantity;
+                        $adjustedQty = (float) $item['quantity'];
+                        $item['total_cost'] = $baseQty > 0
+                            ? round(($adjustedQty / $baseQty) * (float) $ingredient->computed_cost, 2)
+                            : null;
                     }
                 }
             }

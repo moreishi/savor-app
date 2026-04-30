@@ -51,7 +51,11 @@ class GroceryListController extends Controller
                 ->with('error', 'Please select a store/branch first before adding items to your grocery list.');
         }
 
-        $this->groceryList->addRecipe($recipe, $branchId);
+        // Filter by checked ingredients and apply adjusted quantities
+        $checkedIngredients = $request->input('ingredients', []);
+        $quantities = $request->input('quantities', []);
+
+        $this->groceryList->addRecipe($recipe, $branchId, $checkedIngredients, $quantities);
         $this->groceryList->setBranch($branchId);
 
         return redirect()->route('grocery-list.index')
