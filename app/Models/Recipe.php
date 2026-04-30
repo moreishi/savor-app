@@ -124,6 +124,24 @@ class Recipe extends Model
                     $item->promo_price = $price->promo_price ? (float) $price->promo_price : null;
                     $item->promo_label = $price->promo_label;
                     $item->has_price = true;
+
+                    // Look up active PromoHighlight for this ingredient at this branch
+                    $promo = \App\Models\PromoHighlight::where('branch_id', $branchId)
+                        ->where('ingredient_id', $item->id)
+                        ->where('is_active', true)
+                        ->where('valid_from', '<=', now())
+                        ->where('valid_until', '>=', now())
+                        ->first();
+
+                    if ($promo) {
+                        $item->is_on_promo = true;
+                        $item->promo_label = $promo->promo_text;
+                        // Apply a 15% discount on the computed cost
+                        if ($item->computed_cost !== null) {
+                            $item->promo_price = round($item->computed_cost * 0.85, 2);
+                        }
+                    }
+
                     $item->price_is_stale = $price->last_verified_at
                         && $price->last_verified_at->diffInDays(now()) > 7;
                 }

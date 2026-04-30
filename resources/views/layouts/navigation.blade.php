@@ -48,6 +48,9 @@
                     <x-nav-link :href="route('prices.import')" :active="request()->routeIs('prices.*')">
                         {{ __('Import Prices') }}
                     </x-nav-link>
+                    <x-nav-link :href="route('admin.promos.index')" :active="request()->routeIs('admin.promos.*')">
+                        {{ __('Promos') }}
+                    </x-nav-link>
                     @endcan
                 </div>
             </div>
@@ -138,6 +141,9 @@
             </x-responsive-nav-link>
             <x-responsive-nav-link :href="route('prices.import')" :active="request()->routeIs('prices.*')">
                 {{ __('Import Prices') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('admin.promos.index')" :active="request()->routeIs('admin.promos.*')">
+                {{ __('Promos') }}
             </x-responsive-nav-link>
             @endcan
         </div>

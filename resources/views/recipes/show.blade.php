@@ -78,6 +78,19 @@
                                     @if($ingredient->pivot->notes)
                                         <span class="text-gray-400 italic">({{ $ingredient->pivot->notes }})</span>
                                     @endif
+                                    @php
+                                        $hasPromo = \App\Models\PromoHighlight::where('branch_id', session('grocery_list.branch_id'))
+                                            ->where('ingredient_id', $ingredient->id)
+                                            ->where('is_active', true)
+                                            ->where('valid_from', '<=', now())
+                                            ->where('valid_until', '>=', now())
+                                            ->exists();
+                                    @endphp
+                                    @if($hasPromo)
+                                        <span class="inline-flex items-center px-1.5 py-0.5 rounded text-xs font-semibold bg-red-100 text-red-700 ml-1.5">
+                                            🔥 PROMO
+                                        </span>
+                                    @endif
                                 </span>
                                 <input type="hidden" name="quantities[{{ $ingredient->id }}]"
                                        x-bind:value="adjust({{ $ingredient->pivot->quantity }})">

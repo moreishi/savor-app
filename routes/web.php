@@ -46,6 +46,7 @@ Route::middleware(['auth', 'can:admin'])->prefix('admin')->name('admin.')->group
     Route::resource('ingredients', App\Http\Controllers\Admin\IngredientController::class);
     Route::resource('branches', App\Http\Controllers\Admin\BranchController::class);
     Route::resource('tags', App\Http\Controllers\Admin\TagController::class);
+    Route::resource('promos', App\Http\Controllers\Admin\PromoHighlightController::class);
 });
 
 require __DIR__.'/auth.php';

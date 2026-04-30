@@ -15,6 +15,7 @@ class SavorDatabaseSeeder extends Seeder
             IngredientSeeder::class,
             RecipeSeeder::class,
             PriceSeeder::class,
+            PromoHighlightSeeder::class,
         ]);
     }
 }

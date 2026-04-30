@@ -10,6 +10,14 @@ class RecipeController extends Controller
 {
     public function index(Request $request)
     {
+        $promos = \App\Models\PromoHighlight::with('branch', 'ingredient')
+            ->where('is_active', true)
+            ->where('valid_from', '<=', now())
+            ->where('valid_until', '>=', now())
+            ->inRandomOrder()
+            ->take(6)
+            ->get();
+
         $query = Recipe::with('category', 'tags')
             ->orderBy('created_at', 'desc');
 
@@ -31,7 +39,7 @@ class RecipeController extends Controller
 
         $recipes = $query->paginate(12);
 
-        return view('recipes.index', compact('featured', 'categories', 'recipes'));
+        return view('recipes.index', compact('featured', 'categories', 'recipes', 'promos'));
     }
 
     public function show($slug)

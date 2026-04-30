@@ -22,6 +22,32 @@
                 </form>
             </div>
 
+            <!-- Promo Section -->
+            @if($promos->isNotEmpty())
+            <div class="mb-12">
+                <h2 class="text-xl font-semibold text-gray-900 mb-4">🔥 Current Promos</h2>
+                <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+                    @foreach($promos as $promo)
+                        <div class="bg-gradient-to-r from-red-50 to-orange-50 border border-red-200 rounded-xl p-4 shadow-sm">
+                            <div class="flex items-start justify-between">
+                                <div>
+                                    <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-semibold bg-red-100 text-red-700 mb-1">
+                                        {{ $promo->promo_text }}
+                                    </span>
+                                    <h3 class="text-sm font-semibold text-gray-900 mt-1">{{ $promo->ingredient?->name }}</h3>
+                                    <p class="text-xs text-gray-500 mt-0.5">{{ $promo->branch?->name }}</p>
+                                </div>
+                                <span class="text-base">🏷️</span>
+                            </div>
+                            <p class="text-xs text-gray-400 mt-2">
+                                Valid until {{ $promo->valid_until->format('M d, Y') }}
+                            </p>
+                        </div>
+                    @endforeach
+                </div>
+            </div>
+            @endif
+
             <!-- Category Grid -->
             <div class="mb-12">
                 <h2 class="text-xl font-semibold text-gray-900 mb-4">Browse by Category</h2>

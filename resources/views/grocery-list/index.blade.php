@@ -117,7 +117,12 @@
                                         </td>
                                         <td class="px-4 sm:px-6 py-3 text-right">
                                             @if($item['has_price'] && $item['total_cost'] !== null)
-                                                <span class="font-semibold text-gray-900">₱{{ number_format($item['total_cost'], 2) }}</span>
+                                                @if($item['is_on_promo'] && $item['promo_price'] !== null)
+                                                    <span class="text-sm text-gray-400 line-through mr-1">₱{{ number_format($item['total_cost'], 2) }}</span>
+                                                    <span class="font-semibold text-red-600">₱{{ number_format($item['promo_price'], 2) }}</span>
+                                                @else
+                                                    <span class="font-semibold text-gray-900">₱{{ number_format($item['total_cost'], 2) }}</span>
+                                                @endif
                                             @elseif($item['has_price'] === false)
                                                 <span class="text-xs text-amber-600">No price</span>
                                             @else
