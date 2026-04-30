@@ -10,6 +10,8 @@ Route::get('/', [RecipeController::class, 'index'])->name('recipes.index');
 Route::get('/recipes/{slug}', [RecipeController::class, 'show'])->name('recipes.show');
 Route::get('/grocery-list', [GroceryListController::class, 'index'])->name('grocery-list.index');
 
+Route::view('/offline', 'offline');
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

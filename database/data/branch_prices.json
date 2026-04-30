@@ -1,0 +1,4994 @@
+[
+    {
+        "branch_id": 1,
+        "ingredient_id": 1,
+        "variant_label": null,
+        "price": 132.48,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 2,
+        "variant_label": null,
+        "price": 187.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 3,
+        "variant_label": null,
+        "price": 277.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 4,
+        "variant_label": null,
+        "price": 234,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 5,
+        "variant_label": null,
+        "price": 200.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 6,
+        "variant_label": null,
+        "price": 234.36,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 7,
+        "variant_label": null,
+        "price": 369.36,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 8,
+        "variant_label": null,
+        "price": 318.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 9,
+        "variant_label": null,
+        "price": 327.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 10,
+        "variant_label": null,
+        "price": 267.84,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 11,
+        "variant_label": null,
+        "price": 180.18,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 12,
+        "variant_label": null,
+        "price": 153.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 13,
+        "variant_label": null,
+        "price": 307.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 14,
+        "variant_label": null,
+        "price": 178.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 15,
+        "variant_label": null,
+        "price": 267.12,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 16,
+        "variant_label": null,
+        "price": 136.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 17,
+        "variant_label": null,
+        "price": 355.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 18,
+        "variant_label": null,
+        "price": 85.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 19,
+        "variant_label": null,
+        "price": 173.34,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 20,
+        "variant_label": null,
+        "price": 133.56,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 21,
+        "variant_label": null,
+        "price": 97.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 22,
+        "variant_label": null,
+        "price": 112.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 23,
+        "variant_label": null,
+        "price": 77.76,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 24,
+        "variant_label": null,
+        "price": 22.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 25,
+        "variant_label": null,
+        "price": 24.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 26,
+        "variant_label": null,
+        "price": 66.96,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 27,
+        "variant_label": null,
+        "price": 67.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 28,
+        "variant_label": null,
+        "price": 88.29,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 29,
+        "variant_label": null,
+        "price": 88.29,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 30,
+        "variant_label": null,
+        "price": 50.22,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 31,
+        "variant_label": null,
+        "price": 22.28,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 32,
+        "variant_label": null,
+        "price": 117.72,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 33,
+        "variant_label": null,
+        "price": 48.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 34,
+        "variant_label": null,
+        "price": 90,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 35,
+        "variant_label": null,
+        "price": 21.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 36,
+        "variant_label": null,
+        "price": 14.31,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 37,
+        "variant_label": null,
+        "price": 20.25,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 38,
+        "variant_label": null,
+        "price": 90.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 39,
+        "variant_label": null,
+        "price": 42.53,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 40,
+        "variant_label": null,
+        "price": 45.05,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 41,
+        "variant_label": null,
+        "price": 378,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 42,
+        "variant_label": null,
+        "price": 69.62,
+        "purchase_quantity": 1,
+        "purchase_unit": "dozen"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 43,
+        "variant_label": null,
+        "price": 243,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 44,
+        "variant_label": null,
+        "price": 50.49,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 45,
+        "variant_label": null,
+        "price": 59.22,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 46,
+        "variant_label": null,
+        "price": 99,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 47,
+        "variant_label": null,
+        "price": 25.38,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 48,
+        "variant_label": null,
+        "price": 20.48,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 49,
+        "variant_label": null,
+        "price": 28.98,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 50,
+        "variant_label": null,
+        "price": 33.84,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 51,
+        "variant_label": null,
+        "price": 49.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 52,
+        "variant_label": null,
+        "price": 21.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 53,
+        "variant_label": null,
+        "price": 19.08,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 54,
+        "variant_label": null,
+        "price": 27,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 55,
+        "variant_label": null,
+        "price": 18.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 56,
+        "variant_label": null,
+        "price": 31.82,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 57,
+        "variant_label": null,
+        "price": 17.82,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 58,
+        "variant_label": null,
+        "price": 48.51,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 59,
+        "variant_label": null,
+        "price": 58.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 60,
+        "variant_label": null,
+        "price": 36,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 61,
+        "variant_label": null,
+        "price": 99.99,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 62,
+        "variant_label": null,
+        "price": 28.98,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 63,
+        "variant_label": null,
+        "price": 22.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 64,
+        "variant_label": null,
+        "price": 67.41,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 65,
+        "variant_label": null,
+        "price": 116.64,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 66,
+        "variant_label": null,
+        "price": 106.47,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 67,
+        "variant_label": null,
+        "price": 36.45,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 68,
+        "variant_label": null,
+        "price": 71.28,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 69,
+        "variant_label": null,
+        "price": 38.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 70,
+        "variant_label": null,
+        "price": 67.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 1,
+        "variant_label": null,
+        "price": 158.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 2,
+        "variant_label": null,
+        "price": 176.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 3,
+        "variant_label": null,
+        "price": 254.52,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 4,
+        "variant_label": null,
+        "price": 216,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 5,
+        "variant_label": null,
+        "price": 226.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 6,
+        "variant_label": null,
+        "price": 252,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 7,
+        "variant_label": null,
+        "price": 355.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 8,
+        "variant_label": null,
+        "price": 286.65,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 9,
+        "variant_label": null,
+        "price": 333.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 10,
+        "variant_label": null,
+        "price": 311.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 11,
+        "variant_label": null,
+        "price": 186.12,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 12,
+        "variant_label": null,
+        "price": 147.42,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 13,
+        "variant_label": null,
+        "price": 301.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 14,
+        "variant_label": null,
+        "price": 172.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 15,
+        "variant_label": null,
+        "price": 264.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 16,
+        "variant_label": null,
+        "price": 146.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 17,
+        "variant_label": null,
+        "price": 307.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 18,
+        "variant_label": null,
+        "price": 97.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 19,
+        "variant_label": null,
+        "price": 173.34,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 20,
+        "variant_label": null,
+        "price": 115.92,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 21,
+        "variant_label": null,
+        "price": 86.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 22,
+        "variant_label": null,
+        "price": 105.84,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 23,
+        "variant_label": null,
+        "price": 73.44,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 24,
+        "variant_label": null,
+        "price": 20.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 25,
+        "variant_label": null,
+        "price": 25.65,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 26,
+        "variant_label": null,
+        "price": 68.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 27,
+        "variant_label": null,
+        "price": 74.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 28,
+        "variant_label": null,
+        "price": 72.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 29,
+        "variant_label": null,
+        "price": 81.81,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 30,
+        "variant_label": null,
+        "price": 59.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 31,
+        "variant_label": null,
+        "price": 21.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 32,
+        "variant_label": null,
+        "price": 118.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 33,
+        "variant_label": null,
+        "price": 59.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 34,
+        "variant_label": null,
+        "price": 95.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 35,
+        "variant_label": null,
+        "price": 24.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 36,
+        "variant_label": null,
+        "price": 14.72,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 37,
+        "variant_label": null,
+        "price": 22.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 38,
+        "variant_label": null,
+        "price": 94.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 39,
+        "variant_label": null,
+        "price": 44.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 40,
+        "variant_label": null,
+        "price": 50.49,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 41,
+        "variant_label": null,
+        "price": 367.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 42,
+        "variant_label": null,
+        "price": 81.09,
+        "purchase_quantity": 1,
+        "purchase_unit": "dozen"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 43,
+        "variant_label": null,
+        "price": 278.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 44,
+        "variant_label": null,
+        "price": 54.45,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 45,
+        "variant_label": null,
+        "price": 64.26,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 46,
+        "variant_label": null,
+        "price": 103.95,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 47,
+        "variant_label": null,
+        "price": 26.73,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 48,
+        "variant_label": null,
+        "price": 20.25,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 49,
+        "variant_label": null,
+        "price": 28.67,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 50,
+        "variant_label": null,
+        "price": 37.08,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 51,
+        "variant_label": null,
+        "price": 49.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 52,
+        "variant_label": null,
+        "price": 21.38,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 53,
+        "variant_label": null,
+        "price": 18.18,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 54,
+        "variant_label": null,
+        "price": 27.81,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 55,
+        "variant_label": null,
+        "price": 16.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 56,
+        "variant_label": null,
+        "price": 34.65,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 57,
+        "variant_label": null,
+        "price": 16.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 58,
+        "variant_label": null,
+        "price": 48.02,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 59,
+        "variant_label": null,
+        "price": 49.14,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 60,
+        "variant_label": null,
+        "price": 33.48,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 61,
+        "variant_label": null,
+        "price": 104.94,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 62,
+        "variant_label": null,
+        "price": 33.08,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 63,
+        "variant_label": null,
+        "price": 23.85,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 64,
+        "variant_label": null,
+        "price": 66.78,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 65,
+        "variant_label": null,
+        "price": 109.08,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 66,
+        "variant_label": null,
+        "price": 106.47,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 67,
+        "variant_label": null,
+        "price": 43.74,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 68,
+        "variant_label": null,
+        "price": 69.12,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 69,
+        "variant_label": null,
+        "price": 38.07,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 70,
+        "variant_label": null,
+        "price": 77.76,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 1,
+        "variant_label": null,
+        "price": 148.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 2,
+        "variant_label": null,
+        "price": 186,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 3,
+        "variant_label": null,
+        "price": 305.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 4,
+        "variant_label": null,
+        "price": 225,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 5,
+        "variant_label": null,
+        "price": 228,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 6,
+        "variant_label": null,
+        "price": 299.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 7,
+        "variant_label": null,
+        "price": 353.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 8,
+        "variant_label": null,
+        "price": 318.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 9,
+        "variant_label": null,
+        "price": 325.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 10,
+        "variant_label": null,
+        "price": 316.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 11,
+        "variant_label": null,
+        "price": 202.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 12,
+        "variant_label": null,
+        "price": 165.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 13,
+        "variant_label": null,
+        "price": 345.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 14,
+        "variant_label": null,
+        "price": 184,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 15,
+        "variant_label": null,
+        "price": 271.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 16,
+        "variant_label": null,
+        "price": 160,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 17,
+        "variant_label": null,
+        "price": 387.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 18,
+        "variant_label": null,
+        "price": 106,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 19,
+        "variant_label": null,
+        "price": 172.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 20,
+        "variant_label": null,
+        "price": 135.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 21,
+        "variant_label": null,
+        "price": 99,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 22,
+        "variant_label": null,
+        "price": 128.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 23,
+        "variant_label": null,
+        "price": 85.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 24,
+        "variant_label": null,
+        "price": 23.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 25,
+        "variant_label": null,
+        "price": 32.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 26,
+        "variant_label": null,
+        "price": 85.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 27,
+        "variant_label": null,
+        "price": 79.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 28,
+        "variant_label": null,
+        "price": 93.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 29,
+        "variant_label": null,
+        "price": 92.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 30,
+        "variant_label": null,
+        "price": 60,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 31,
+        "variant_label": null,
+        "price": 25.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 32,
+        "variant_label": null,
+        "price": 118.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 33,
+        "variant_label": null,
+        "price": 66,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 34,
+        "variant_label": null,
+        "price": 97,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 35,
+        "variant_label": null,
+        "price": 23,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 36,
+        "variant_label": null,
+        "price": 15.45,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 37,
+        "variant_label": null,
+        "price": 26,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 38,
+        "variant_label": null,
+        "price": 93,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 39,
+        "variant_label": null,
+        "price": 44.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 40,
+        "variant_label": null,
+        "price": 60.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 41,
+        "variant_label": null,
+        "price": 440,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 42,
+        "variant_label": null,
+        "price": 84.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "dozen"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 43,
+        "variant_label": null,
+        "price": 321,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 44,
+        "variant_label": null,
+        "price": 56.65,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 45,
+        "variant_label": null,
+        "price": 73.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 46,
+        "variant_label": null,
+        "price": 108.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 47,
+        "variant_label": null,
+        "price": 32.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 48,
+        "variant_label": null,
+        "price": 26.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 49,
+        "variant_label": null,
+        "price": 34.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 50,
+        "variant_label": null,
+        "price": 41.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 51,
+        "variant_label": null,
+        "price": 64.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 52,
+        "variant_label": null,
+        "price": 25.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 53,
+        "variant_label": null,
+        "price": 18.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 54,
+        "variant_label": null,
+        "price": 27.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 55,
+        "variant_label": null,
+        "price": 18.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 56,
+        "variant_label": null,
+        "price": 36.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 57,
+        "variant_label": null,
+        "price": 18.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 58,
+        "variant_label": null,
+        "price": 59.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 59,
+        "variant_label": null,
+        "price": 63,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 60,
+        "variant_label": null,
+        "price": 41.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 61,
+        "variant_label": null,
+        "price": 113.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 62,
+        "variant_label": null,
+        "price": 33.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 63,
+        "variant_label": null,
+        "price": 26.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 64,
+        "variant_label": null,
+        "price": 72.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 65,
+        "variant_label": null,
+        "price": 117.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 66,
+        "variant_label": null,
+        "price": 133.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 67,
+        "variant_label": null,
+        "price": 49.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 68,
+        "variant_label": null,
+        "price": 72,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 69,
+        "variant_label": null,
+        "price": 48.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 70,
+        "variant_label": null,
+        "price": 78.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 1,
+        "variant_label": null,
+        "price": 144,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 2,
+        "variant_label": null,
+        "price": 214,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 3,
+        "variant_label": null,
+        "price": 285.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 4,
+        "variant_label": null,
+        "price": 237.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 5,
+        "variant_label": null,
+        "price": 256.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 6,
+        "variant_label": null,
+        "price": 308,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 7,
+        "variant_label": null,
+        "price": 342,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 8,
+        "variant_label": null,
+        "price": 353.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 9,
+        "variant_label": null,
+        "price": 315,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 10,
+        "variant_label": null,
+        "price": 342.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 11,
+        "variant_label": null,
+        "price": 215.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 12,
+        "variant_label": null,
+        "price": 198,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 13,
+        "variant_label": null,
+        "price": 367.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 14,
+        "variant_label": null,
+        "price": 214,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 15,
+        "variant_label": null,
+        "price": 299.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 16,
+        "variant_label": null,
+        "price": 155.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 17,
+        "variant_label": null,
+        "price": 349.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 18,
+        "variant_label": null,
+        "price": 93,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 19,
+        "variant_label": null,
+        "price": 187.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 20,
+        "variant_label": null,
+        "price": 131.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 21,
+        "variant_label": null,
+        "price": 99,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 22,
+        "variant_label": null,
+        "price": 132,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 23,
+        "variant_label": null,
+        "price": 84.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 24,
+        "variant_label": null,
+        "price": 25.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 25,
+        "variant_label": null,
+        "price": 27.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 26,
+        "variant_label": null,
+        "price": 80,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 27,
+        "variant_label": null,
+        "price": 85.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 28,
+        "variant_label": null,
+        "price": 94.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 29,
+        "variant_label": null,
+        "price": 90,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 30,
+        "variant_label": null,
+        "price": 64.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 31,
+        "variant_label": null,
+        "price": 23.25,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 32,
+        "variant_label": null,
+        "price": 122.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 33,
+        "variant_label": null,
+        "price": 60,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 34,
+        "variant_label": null,
+        "price": 103,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 35,
+        "variant_label": null,
+        "price": 26.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 36,
+        "variant_label": null,
+        "price": 15.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 37,
+        "variant_label": null,
+        "price": 27,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 38,
+        "variant_label": null,
+        "price": 90,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 39,
+        "variant_label": null,
+        "price": 49.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 40,
+        "variant_label": null,
+        "price": 58.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 41,
+        "variant_label": null,
+        "price": 404,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 42,
+        "variant_label": null,
+        "price": 76.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "dozen"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 43,
+        "variant_label": null,
+        "price": 276,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 44,
+        "variant_label": null,
+        "price": 56.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 45,
+        "variant_label": null,
+        "price": 74.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 46,
+        "variant_label": null,
+        "price": 110,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 47,
+        "variant_label": null,
+        "price": 31.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 48,
+        "variant_label": null,
+        "price": 25,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 49,
+        "variant_label": null,
+        "price": 35.35,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 50,
+        "variant_label": null,
+        "price": 40.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 51,
+        "variant_label": null,
+        "price": 56.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 52,
+        "variant_label": null,
+        "price": 26.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 53,
+        "variant_label": null,
+        "price": 21.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 54,
+        "variant_label": null,
+        "price": 27,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 55,
+        "variant_label": null,
+        "price": 21.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 56,
+        "variant_label": null,
+        "price": 32.55,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 57,
+        "variant_label": null,
+        "price": 21,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 58,
+        "variant_label": null,
+        "price": 51.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 59,
+        "variant_label": null,
+        "price": 63.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 60,
+        "variant_label": null,
+        "price": 36.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 61,
+        "variant_label": null,
+        "price": 116.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 62,
+        "variant_label": null,
+        "price": 32.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 63,
+        "variant_label": null,
+        "price": 25,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 64,
+        "variant_label": null,
+        "price": 70.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 65,
+        "variant_label": null,
+        "price": 111.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 66,
+        "variant_label": null,
+        "price": 140.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 67,
+        "variant_label": null,
+        "price": 46.35,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 68,
+        "variant_label": null,
+        "price": 73.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 69,
+        "variant_label": null,
+        "price": 48.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 70,
+        "variant_label": null,
+        "price": 80.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 1,
+        "variant_label": null,
+        "price": 181.44,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 2,
+        "variant_label": null,
+        "price": 222.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 3,
+        "variant_label": null,
+        "price": 291.06,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 4,
+        "variant_label": null,
+        "price": 252,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 5,
+        "variant_label": null,
+        "price": 262.08,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 6,
+        "variant_label": null,
+        "price": 296.94,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 7,
+        "variant_label": null,
+        "price": 375.06,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 8,
+        "variant_label": null,
+        "price": 367.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 9,
+        "variant_label": null,
+        "price": 378.53,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 10,
+        "variant_label": null,
+        "price": 329.28,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 11,
+        "variant_label": null,
+        "price": 249.48,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 12,
+        "variant_label": null,
+        "price": 202.23,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 13,
+        "variant_label": null,
+        "price": 412.02,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 14,
+        "variant_label": null,
+        "price": 203.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 15,
+        "variant_label": null,
+        "price": 267.54,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 16,
+        "variant_label": null,
+        "price": 156.24,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 17,
+        "variant_label": null,
+        "price": 406.98,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 18,
+        "variant_label": null,
+        "price": 112.35,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 19,
+        "variant_label": null,
+        "price": 183.33,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 20,
+        "variant_label": null,
+        "price": 142.59,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 21,
+        "variant_label": null,
+        "price": 94.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 22,
+        "variant_label": null,
+        "price": 137.34,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 23,
+        "variant_label": null,
+        "price": 78.96,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 24,
+        "variant_label": null,
+        "price": 27.56,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 25,
+        "variant_label": null,
+        "price": 30.56,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 26,
+        "variant_label": null,
+        "price": 85.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 27,
+        "variant_label": null,
+        "price": 77.28,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 28,
+        "variant_label": null,
+        "price": 98.28,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 29,
+        "variant_label": null,
+        "price": 103.01,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 30,
+        "variant_label": null,
+        "price": 68.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 31,
+        "variant_label": null,
+        "price": 25.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 32,
+        "variant_label": null,
+        "price": 136.08,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 33,
+        "variant_label": null,
+        "price": 58.59,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 34,
+        "variant_label": null,
+        "price": 114.45,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 35,
+        "variant_label": null,
+        "price": 26.25,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 36,
+        "variant_label": null,
+        "price": 15.28,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 37,
+        "variant_label": null,
+        "price": 26.25,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 38,
+        "variant_label": null,
+        "price": 112.35,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 39,
+        "variant_label": null,
+        "price": 45.83,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 40,
+        "variant_label": null,
+        "price": 61.79,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 41,
+        "variant_label": null,
+        "price": 449.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 42,
+        "variant_label": null,
+        "price": 94.61,
+        "purchase_quantity": 1,
+        "purchase_unit": "dozen"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 43,
+        "variant_label": null,
+        "price": 343.35,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 44,
+        "variant_label": null,
+        "price": 55.44,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 45,
+        "variant_label": null,
+        "price": 72.77,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 46,
+        "variant_label": null,
+        "price": 110.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 47,
+        "variant_label": null,
+        "price": 28.67,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 48,
+        "variant_label": null,
+        "price": 27.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 49,
+        "variant_label": null,
+        "price": 34.18,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 50,
+        "variant_label": null,
+        "price": 44.94,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 51,
+        "variant_label": null,
+        "price": 61.74,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 52,
+        "variant_label": null,
+        "price": 28.61,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 53,
+        "variant_label": null,
+        "price": 19.11,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 54,
+        "variant_label": null,
+        "price": 30.87,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 55,
+        "variant_label": null,
+        "price": 19.11,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 56,
+        "variant_label": null,
+        "price": 33.44,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 57,
+        "variant_label": null,
+        "price": 21.63,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 58,
+        "variant_label": null,
+        "price": 61.79,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 59,
+        "variant_label": null,
+        "price": 61.11,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 60,
+        "variant_label": null,
+        "price": 42.84,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 61,
+        "variant_label": null,
+        "price": 108.57,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 62,
+        "variant_label": null,
+        "price": 36.38,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 63,
+        "variant_label": null,
+        "price": 25.46,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 64,
+        "variant_label": null,
+        "price": 66.89,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 65,
+        "variant_label": null,
+        "price": 131.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 66,
+        "variant_label": null,
+        "price": 137.87,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 67,
+        "variant_label": null,
+        "price": 47.72,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 68,
+        "variant_label": null,
+        "price": 88.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 69,
+        "variant_label": null,
+        "price": 51.98,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 70,
+        "variant_label": null,
+        "price": 78.96,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 1,
+        "variant_label": null,
+        "price": 179.76,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 2,
+        "variant_label": null,
+        "price": 195.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 3,
+        "variant_label": null,
+        "price": 294,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 4,
+        "variant_label": null,
+        "price": 270.38,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 5,
+        "variant_label": null,
+        "price": 229.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 6,
+        "variant_label": null,
+        "price": 288.12,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 7,
+        "variant_label": null,
+        "price": 406.98,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 8,
+        "variant_label": null,
+        "price": 404.25,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 9,
+        "variant_label": null,
+        "price": 382.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 10,
+        "variant_label": null,
+        "price": 339.36,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 11,
+        "variant_label": null,
+        "price": 219.45,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 12,
+        "variant_label": null,
+        "price": 185.22,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 13,
+        "variant_label": null,
+        "price": 389.34,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 14,
+        "variant_label": null,
+        "price": 214.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 15,
+        "variant_label": null,
+        "price": 308.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 16,
+        "variant_label": null,
+        "price": 154.56,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 17,
+        "variant_label": null,
+        "price": 371.07,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 18,
+        "variant_label": null,
+        "price": 94.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 19,
+        "variant_label": null,
+        "price": 183.33,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 20,
+        "variant_label": null,
+        "price": 154.35,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 21,
+        "variant_label": null,
+        "price": 98.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 22,
+        "variant_label": null,
+        "price": 136.08,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 23,
+        "variant_label": null,
+        "price": 89.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 24,
+        "variant_label": null,
+        "price": 28.09,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 25,
+        "variant_label": null,
+        "price": 28.35,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 26,
+        "variant_label": null,
+        "price": 78.96,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 27,
+        "variant_label": null,
+        "price": 76.44,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 28,
+        "variant_label": null,
+        "price": 99.23,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 29,
+        "variant_label": null,
+        "price": 88.83,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 30,
+        "variant_label": null,
+        "price": 68.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 31,
+        "variant_label": null,
+        "price": 27.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 32,
+        "variant_label": null,
+        "price": 138.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 33,
+        "variant_label": null,
+        "price": 57.96,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 34,
+        "variant_label": null,
+        "price": 99.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 35,
+        "variant_label": null,
+        "price": 27.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 36,
+        "variant_label": null,
+        "price": 16.85,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 37,
+        "variant_label": null,
+        "price": 27.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 38,
+        "variant_label": null,
+        "price": 106.05,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 39,
+        "variant_label": null,
+        "price": 50.09,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 40,
+        "variant_label": null,
+        "price": 62.95,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 41,
+        "variant_label": null,
+        "price": 462,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 42,
+        "variant_label": null,
+        "price": 91.93,
+        "purchase_quantity": 1,
+        "purchase_unit": "dozen"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 43,
+        "variant_label": null,
+        "price": 318.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 44,
+        "variant_label": null,
+        "price": 57.17,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 45,
+        "variant_label": null,
+        "price": 69.83,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 46,
+        "variant_label": null,
+        "price": 112.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 47,
+        "variant_label": null,
+        "price": 30.87,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 48,
+        "variant_label": null,
+        "price": 26.51,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 49,
+        "variant_label": null,
+        "price": 38.59,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 50,
+        "variant_label": null,
+        "price": 39.48,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 51,
+        "variant_label": null,
+        "price": 58.59,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 52,
+        "variant_label": null,
+        "price": 28.09,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 53,
+        "variant_label": null,
+        "price": 19.95,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 54,
+        "variant_label": null,
+        "price": 29.92,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 55,
+        "variant_label": null,
+        "price": 22.26,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 56,
+        "variant_label": null,
+        "price": 37.49,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 57,
+        "variant_label": null,
+        "price": 22.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 58,
+        "variant_label": null,
+        "price": 56.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 59,
+        "variant_label": null,
+        "price": 64.89,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 60,
+        "variant_label": null,
+        "price": 46.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 61,
+        "variant_label": null,
+        "price": 113.19,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 62,
+        "variant_label": null,
+        "price": 37.85,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 63,
+        "variant_label": null,
+        "price": 23.89,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 64,
+        "variant_label": null,
+        "price": 66.89,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 65,
+        "variant_label": null,
+        "price": 119.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 66,
+        "variant_label": null,
+        "price": 141.96,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 67,
+        "variant_label": null,
+        "price": 51.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 68,
+        "variant_label": null,
+        "price": 92.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 69,
+        "variant_label": null,
+        "price": 43,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 70,
+        "variant_label": null,
+        "price": 89.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 1,
+        "variant_label": null,
+        "price": 202.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 2,
+        "variant_label": null,
+        "price": 234.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 3,
+        "variant_label": null,
+        "price": 338.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 4,
+        "variant_label": null,
+        "price": 307.63,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 5,
+        "variant_label": null,
+        "price": 256.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 6,
+        "variant_label": null,
+        "price": 331.66,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 7,
+        "variant_label": null,
+        "price": 454.48,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 8,
+        "variant_label": null,
+        "price": 370.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 9,
+        "variant_label": null,
+        "price": 426.65,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 10,
+        "variant_label": null,
+        "price": 379.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 11,
+        "variant_label": null,
+        "price": 255.53,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 12,
+        "variant_label": null,
+        "price": 225.63,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 13,
+        "variant_label": null,
+        "price": 372.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 14,
+        "variant_label": null,
+        "price": 236.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 15,
+        "variant_label": null,
+        "price": 350.98,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 16,
+        "variant_label": null,
+        "price": 191.36,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 17,
+        "variant_label": null,
+        "price": 428.26,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 18,
+        "variant_label": null,
+        "price": 112.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 19,
+        "variant_label": null,
+        "price": 202.86,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 20,
+        "variant_label": null,
+        "price": 149.73,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 21,
+        "variant_label": null,
+        "price": 126.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 22,
+        "variant_label": null,
+        "price": 151.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 23,
+        "variant_label": null,
+        "price": 99.36,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 24,
+        "variant_label": null,
+        "price": 31.63,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 25,
+        "variant_label": null,
+        "price": 34.85,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 26,
+        "variant_label": null,
+        "price": 99.36,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 27,
+        "variant_label": null,
+        "price": 95.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 28,
+        "variant_label": null,
+        "price": 99.36,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 29,
+        "variant_label": null,
+        "price": 108.67,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 30,
+        "variant_label": null,
+        "price": 75.21,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 31,
+        "variant_label": null,
+        "price": 30.76,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 32,
+        "variant_label": null,
+        "price": 131.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 33,
+        "variant_label": null,
+        "price": 74.52,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 34,
+        "variant_label": null,
+        "price": 111.55,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 35,
+        "variant_label": null,
+        "price": 29.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 36,
+        "variant_label": null,
+        "price": 16.56,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 37,
+        "variant_label": null,
+        "price": 31.63,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 38,
+        "variant_label": null,
+        "price": 115,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 39,
+        "variant_label": null,
+        "price": 52.79,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 40,
+        "variant_label": null,
+        "price": 60.72,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 41,
+        "variant_label": null,
+        "price": 446.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 42,
+        "variant_label": null,
+        "price": 96.77,
+        "purchase_quantity": 1,
+        "purchase_unit": "dozen"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 43,
+        "variant_label": null,
+        "price": 372.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 44,
+        "variant_label": null,
+        "price": 61.98,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 45,
+        "variant_label": null,
+        "price": 85.33,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 46,
+        "variant_label": null,
+        "price": 120.17,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 47,
+        "variant_label": null,
+        "price": 35.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 48,
+        "variant_label": null,
+        "price": 27.89,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 49,
+        "variant_label": null,
+        "price": 39.45,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 50,
+        "variant_label": null,
+        "price": 47.84,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 51,
+        "variant_label": null,
+        "price": 66.93,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 52,
+        "variant_label": null,
+        "price": 30.76,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 53,
+        "variant_label": null,
+        "price": 24.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 54,
+        "variant_label": null,
+        "price": 37.95,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 55,
+        "variant_label": null,
+        "price": 22.08,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 56,
+        "variant_label": null,
+        "price": 38.64,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 57,
+        "variant_label": null,
+        "price": 23.69,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 58,
+        "variant_label": null,
+        "price": 65.78,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 59,
+        "variant_label": null,
+        "price": 69,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 60,
+        "variant_label": null,
+        "price": 43.24,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 61,
+        "variant_label": null,
+        "price": 120.17,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 62,
+        "variant_label": null,
+        "price": 39.85,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 63,
+        "variant_label": null,
+        "price": 28.46,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 64,
+        "variant_label": null,
+        "price": 77.28,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 65,
+        "variant_label": null,
+        "price": 142.14,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 66,
+        "variant_label": null,
+        "price": 159.97,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 67,
+        "variant_label": null,
+        "price": 55.89,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 68,
+        "variant_label": null,
+        "price": 89.24,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 69,
+        "variant_label": null,
+        "price": 52.27,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 70,
+        "variant_label": null,
+        "price": 89.24,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 1,
+        "variant_label": null,
+        "price": 193.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 2,
+        "variant_label": null,
+        "price": 227.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 3,
+        "variant_label": null,
+        "price": 296.24,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 4,
+        "variant_label": null,
+        "price": 278.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 5,
+        "variant_label": null,
+        "price": 278.76,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 6,
+        "variant_label": null,
+        "price": 325.22,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 7,
+        "variant_label": null,
+        "price": 437,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 8,
+        "variant_label": null,
+        "price": 426.65,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 9,
+        "variant_label": null,
+        "price": 438.72,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 10,
+        "variant_label": null,
+        "price": 356.96,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 11,
+        "variant_label": null,
+        "price": 263.12,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 12,
+        "variant_label": null,
+        "price": 186.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 13,
+        "variant_label": null,
+        "price": 430.56,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 14,
+        "variant_label": null,
+        "price": 207,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 15,
+        "variant_label": null,
+        "price": 289.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 16,
+        "variant_label": null,
+        "price": 171.12,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 17,
+        "variant_label": null,
+        "price": 454.48,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 18,
+        "variant_label": null,
+        "price": 116.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 19,
+        "variant_label": null,
+        "price": 196.65,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 20,
+        "variant_label": null,
+        "price": 162.61,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 21,
+        "variant_label": null,
+        "price": 121.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 22,
+        "variant_label": null,
+        "price": 140.76,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 23,
+        "variant_label": null,
+        "price": 97.52,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 24,
+        "variant_label": null,
+        "price": 26.74,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 25,
+        "variant_label": null,
+        "price": 34.85,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 26,
+        "variant_label": null,
+        "price": 98.44,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 27,
+        "variant_label": null,
+        "price": 87.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 28,
+        "variant_label": null,
+        "price": 109.71,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 29,
+        "variant_label": null,
+        "price": 105.57,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 30,
+        "variant_label": null,
+        "price": 63.48,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 31,
+        "variant_label": null,
+        "price": 29.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 32,
+        "variant_label": null,
+        "price": 124.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 33,
+        "variant_label": null,
+        "price": 66.93,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 34,
+        "variant_label": null,
+        "price": 108.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 35,
+        "variant_label": null,
+        "price": 27.89,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 36,
+        "variant_label": null,
+        "price": 15.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "bundle"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 37,
+        "variant_label": null,
+        "price": 30.76,
+        "purchase_quantity": 1,
+        "purchase_unit": "pcs"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 38,
+        "variant_label": null,
+        "price": 126.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 39,
+        "variant_label": null,
+        "price": 53.82,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 40,
+        "variant_label": null,
+        "price": 66.41,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 41,
+        "variant_label": null,
+        "price": 496.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 42,
+        "variant_label": null,
+        "price": 95.79,
+        "purchase_quantity": 1,
+        "purchase_unit": "dozen"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 43,
+        "variant_label": null,
+        "price": 345,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 44,
+        "variant_label": null,
+        "price": 65.15,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 45,
+        "variant_label": null,
+        "price": 78.89,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 46,
+        "variant_label": null,
+        "price": 129.03,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 47,
+        "variant_label": null,
+        "price": 33.46,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 48,
+        "variant_label": null,
+        "price": 29.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 49,
+        "variant_label": null,
+        "price": 36.23,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 50,
+        "variant_label": null,
+        "price": 42.78,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 51,
+        "variant_label": null,
+        "price": 66.93,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 52,
+        "variant_label": null,
+        "price": 27.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 53,
+        "variant_label": null,
+        "price": 25.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 54,
+        "variant_label": null,
+        "price": 32.78,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 55,
+        "variant_label": null,
+        "price": 25.07,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 56,
+        "variant_label": null,
+        "price": 44.28,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 57,
+        "variant_label": null,
+        "price": 23.69,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 58,
+        "variant_label": null,
+        "price": 59.45,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 59,
+        "variant_label": null,
+        "price": 73.83,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 60,
+        "variant_label": null,
+        "price": 43.24,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 61,
+        "variant_label": null,
+        "price": 115.12,
+        "purchase_quantity": 1,
+        "purchase_unit": "L"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 62,
+        "variant_label": null,
+        "price": 43.87,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 63,
+        "variant_label": null,
+        "price": 29.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "pack"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 64,
+        "variant_label": null,
+        "price": 83.72,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 65,
+        "variant_label": null,
+        "price": 124.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 66,
+        "variant_label": null,
+        "price": 134.55,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 67,
+        "variant_label": null,
+        "price": 49.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "can"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 68,
+        "variant_label": null,
+        "price": 82.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "bottle"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 69,
+        "variant_label": null,
+        "price": 56.41,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 70,
+        "variant_label": null,
+        "price": 87.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 1,
+        "variant_label": "Regular",
+        "price": 139.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 1,
+        "variant_label": "Boneless",
+        "price": 170.35,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 2,
+        "variant_label": "Regular",
+        "price": 181.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 2,
+        "variant_label": "Boneless Skinless",
+        "price": 239.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 3,
+        "variant_label": "Regular",
+        "price": 229.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 3,
+        "variant_label": "Sliced",
+        "price": 289.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 4,
+        "variant_label": "Regular",
+        "price": 243,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 1,
+        "ingredient_id": 4,
+        "variant_label": "Sliced",
+        "price": 269.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 1,
+        "variant_label": "Regular",
+        "price": 155.52,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 1,
+        "variant_label": "Boneless",
+        "price": 174.1,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 2,
+        "variant_label": "Regular",
+        "price": 183.6,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 2,
+        "variant_label": "Boneless Skinless",
+        "price": 236.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 3,
+        "variant_label": "Regular",
+        "price": 226.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 3,
+        "variant_label": "Sliced",
+        "price": 278.21,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 4,
+        "variant_label": "Regular",
+        "price": 222.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 2,
+        "ingredient_id": 4,
+        "variant_label": "Sliced",
+        "price": 243.23,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 1,
+        "variant_label": "Regular",
+        "price": 176,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 1,
+        "variant_label": "Boneless",
+        "price": 205.92,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 2,
+        "variant_label": "Regular",
+        "price": 198,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 2,
+        "variant_label": "Boneless Skinless",
+        "price": 291.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 3,
+        "variant_label": "Regular",
+        "price": 263.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 3,
+        "variant_label": "Sliced",
+        "price": 341.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 4,
+        "variant_label": "Regular",
+        "price": 262.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 3,
+        "ingredient_id": 4,
+        "variant_label": "Sliced",
+        "price": 296.13,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 1,
+        "variant_label": "Regular",
+        "price": 168,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 1,
+        "variant_label": "Boneless",
+        "price": 216.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 2,
+        "variant_label": "Regular",
+        "price": 190,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 2,
+        "variant_label": "Boneless Skinless",
+        "price": 291.2,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 3,
+        "variant_label": "Regular",
+        "price": 252,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 3,
+        "variant_label": "Sliced",
+        "price": 325.22,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 4,
+        "variant_label": "Regular",
+        "price": 267.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 4,
+        "ingredient_id": 4,
+        "variant_label": "Sliced",
+        "price": 299,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 1,
+        "variant_label": "Regular",
+        "price": 152.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 1,
+        "variant_label": "Boneless",
+        "price": 205.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 2,
+        "variant_label": "Regular",
+        "price": 210,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 2,
+        "variant_label": "Boneless Skinless",
+        "price": 273.42,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 3,
+        "variant_label": "Regular",
+        "price": 320.46,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 3,
+        "variant_label": "Sliced",
+        "price": 358.39,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 4,
+        "variant_label": "Regular",
+        "price": 246.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 5,
+        "ingredient_id": 4,
+        "variant_label": "Sliced",
+        "price": 274.71,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 1,
+        "variant_label": "Regular",
+        "price": 184.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 1,
+        "variant_label": "Boneless",
+        "price": 235.87,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 2,
+        "variant_label": "Regular",
+        "price": 197.4,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 2,
+        "variant_label": "Boneless Skinless",
+        "price": 305.76,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 3,
+        "variant_label": "Regular",
+        "price": 308.7,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 3,
+        "variant_label": "Sliced",
+        "price": 307.67,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 4,
+        "variant_label": "Regular",
+        "price": 259.88,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 6,
+        "ingredient_id": 4,
+        "variant_label": "Sliced",
+        "price": 329.04,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 1,
+        "variant_label": "Regular",
+        "price": 189.52,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 1,
+        "variant_label": "Boneless",
+        "price": 263.12,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 2,
+        "variant_label": "Regular",
+        "price": 220.8,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 2,
+        "variant_label": "Boneless Skinless",
+        "price": 341.32,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 3,
+        "variant_label": "Regular",
+        "price": 305.9,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 3,
+        "variant_label": "Sliced",
+        "price": 388.81,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 4,
+        "variant_label": "Regular",
+        "price": 258.75,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 7,
+        "ingredient_id": 4,
+        "variant_label": "Sliced",
+        "price": 310.79,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 1,
+        "variant_label": "Regular",
+        "price": 176.64,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 1,
+        "variant_label": "Boneless",
+        "price": 251.16,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 2,
+        "variant_label": "Regular",
+        "price": 209.3,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 2,
+        "variant_label": "Boneless Skinless",
+        "price": 318.78,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 3,
+        "variant_label": "Regular",
+        "price": 315.56,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 3,
+        "variant_label": "Sliced",
+        "price": 340.68,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 4,
+        "variant_label": "Regular",
+        "price": 287.5,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    },
+    {
+        "branch_id": 8,
+        "ingredient_id": 4,
+        "variant_label": "Sliced",
+        "price": 337.24,
+        "purchase_quantity": 1,
+        "purchase_unit": "kg"
+    }
+]
