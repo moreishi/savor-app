@@ -43,15 +43,19 @@ class GroceryListController extends Controller
     {
         $cart = $this->groceryList->getCart();
 
-        if (! $cart['branch_id']) {
+        // Allow branch_id from request (recipe detail page includes hidden field)
+        $branchId = $request->input('branch_id') ?: $cart['branch_id'];
+
+        if (! $branchId) {
             return redirect()->route('grocery-list.index')
                 ->with('error', 'Please select a store/branch first before adding items to your grocery list.');
         }
 
-        $this->groceryList->addRecipe($recipe, $cart['branch_id']);
+        $this->groceryList->addRecipe($recipe, $branchId);
+        $this->groceryList->setBranch($branchId);
 
         return redirect()->route('grocery-list.index')
-            ->with('success', "Added \"{$recipe->title}\" to your grocery list!");
+            ->with('success', "Added {$recipe->title} to your grocery list!");
     }
 
     public function removeRecipe(Recipe $recipe)

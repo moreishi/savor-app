@@ -46,6 +46,8 @@ class RecipeController extends Controller
             fn($s) => !empty($s)
         ));
 
-        return view('recipes.show', compact('recipe', 'steps'));
+        $branches = \App\Models\Branch::active()->orderBy('name')->get();
+
+        return view('recipes.show', compact('recipe', 'steps', 'branches'));
     }
 }
