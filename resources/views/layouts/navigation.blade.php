@@ -17,6 +17,10 @@
                     </x-nav-link>
                     <x-nav-link :href="route('grocery-list.index')" :active="request()->routeIs('grocery-list.*')">
                         {{ __('Grocery List') }}
+                        @php $navCount = count(session('grocery_list.recipes', [])); @endphp
+                        @if($navCount > 0)
+                            <span class="ml-1.5 inline-flex items-center justify-center px-1.5 py-0.5 text-xs font-bold leading-none text-white bg-indigo-500 rounded-full">{{ $navCount }}</span>
+                        @endif
                     </x-nav-link>
                     <x-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
                         {{ __('Dashboard') }}
@@ -83,6 +87,10 @@
             </x-responsive-nav-link>
             <x-responsive-nav-link :href="route('grocery-list.index')" :active="request()->routeIs('grocery-list.*')">
                 {{ __('Grocery List') }}
+                @php $navCount = count(session('grocery_list.recipes', [])); @endphp
+                @if($navCount > 0)
+                    <span class="ml-1.5 inline-flex items-center justify-center px-1.5 py-0.5 text-xs font-bold leading-none text-white bg-indigo-500 rounded-full">{{ $navCount }}</span>
+                @endif
             </x-responsive-nav-link>
             <x-responsive-nav-link :href="route('dashboard')" :active="request()->routeIs('dashboard')">
                 {{ __('Dashboard') }}

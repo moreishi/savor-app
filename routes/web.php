@@ -9,6 +9,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [RecipeController::class, 'index'])->name('recipes.index');
 Route::get('/recipes/{slug}', [RecipeController::class, 'show'])->name('recipes.show');
 Route::get('/grocery-list', [GroceryListController::class, 'index'])->name('grocery-list.index');
+Route::post('/grocery-list/add/{recipe}', [GroceryListController::class, 'addRecipe'])->name('grocery-list.add');
+Route::post('/grocery-list/remove/{recipe}', [GroceryListController::class, 'removeRecipe'])->name('grocery-list.remove');
+Route::post('/grocery-list/clear', [GroceryListController::class, 'clear'])->name('grocery-list.clear');
+Route::post('/grocery-list/branch', [GroceryListController::class, 'setBranch'])->name('grocery-list.branch');
 
 Route::view('/offline', 'offline');
 

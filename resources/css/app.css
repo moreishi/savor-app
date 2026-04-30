@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+[x-cloak] { display: none !important; }
+
+/* Print Styles */
+@media print {
+    nav, .no-print { display: none !important; }
+    body { background: white !important; }
+    .min-h-screen { min-height: auto !important; }
+}
+

@@ -3,6 +3,7 @@
 namespace App\Models;
 
 use App\Helpers\UnitConverter;
+use App\Models\BranchPrice;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;
@@ -55,8 +56,11 @@ class Recipe extends Model
     /**
      * Get grocery list with prices for a specific branch.
      * Returns each ingredient with computed cost and promo flags.
+     *
+     * Prefers null variant_label (generic) prices, falls back to
+     * any available variant_label if no generic price exists.
      */
-    public function getGroceryList(int $branchId): mixed
+    public function getGroceryList(int $branchId)
     {
         return $this->ingredients()
             ->select(
@@ -69,37 +73,59 @@ class Recipe extends Model
                 'recipe_ingredient.is_optional',
                 'recipe_ingredient.sort_order',
             )
-            ->leftJoin('branch_prices', function ($join) use ($branchId) {
-                $join->on('branch_prices.ingredient_id', '=', 'ingredients.id')
-                    ->where('branch_prices.branch_id', $branchId);
-            })
-            ->addSelect(
-                'branch_prices.price',
-                'branch_prices.variant_label',
-                'branch_prices.purchase_quantity',
-                'branch_prices.purchase_unit',
-                'branch_prices.is_on_promo',
-                'branch_prices.promo_price',
-                'branch_prices.promo_label',
-                'branch_prices.last_verified_at',
-            )
             ->orderBy('recipe_ingredient.sort_order')
             ->get()
-            ->map(function ($item) {
-                $item->computed_cost = $item->price && $item->purchase_unit
-                    ? UnitConverter::costForRecipeQuantity(
-                        $item->quantity,
-                        $item->recipe_unit,
-                        $item->purchase_unit === $item->recipe_unit
-                            ? $item->price
-                            : $item->price / $item->purchase_quantity,
-                        $item->purchase_unit
-                    )
-                    : null;
+            ->map(function ($item) use ($branchId) {
+                // Prefer null variant_label (generic) first
+                $price = BranchPrice::where('branch_id', $branchId)
+                    ->where('ingredient_id', $item->id)
+                    ->whereNull('variant_label')
+                    ->first();
 
-                $item->has_price = !is_null($item->price);
-                $item->price_is_stale = $item->last_verified_at
-                    && $item->last_verified_at->diffInDays(now()) > 7;
+                // Fallback to any variant_label
+                if (! $price) {
+                    $price = BranchPrice::where('branch_id', $branchId)
+                        ->where('ingredient_id', $item->id)
+                        ->first();
+                }
+
+                $item->purchase_price = null;
+                $item->purchase_quantity = null;
+                $item->purchase_unit = null;
+                $item->price_per_unit = null;
+                $item->computed_cost = null;
+                $item->variant_label = null;
+                $item->is_on_promo = false;
+                $item->promo_price = null;
+                $item->promo_label = null;
+                $item->has_price = false;
+                $item->price_is_stale = false;
+
+                if ($price) {
+                    $pricePerPurchaseUnit = $price->purchase_quantity > 0
+                        ? (float) $price->price / (float) $price->purchase_quantity
+                        : (float) $price->price;
+
+                    $computed = UnitConverter::costForRecipeQuantity(
+                        (float) $item->quantity,
+                        $item->recipe_unit,
+                        $pricePerPurchaseUnit,
+                        $price->purchase_unit,
+                    );
+
+                    $item->purchase_price = (float) $price->price;
+                    $item->purchase_quantity = (float) $price->purchase_quantity;
+                    $item->purchase_unit = $price->purchase_unit;
+                    $item->price_per_unit = $pricePerPurchaseUnit;
+                    $item->computed_cost = $computed;
+                    $item->variant_label = $price->variant_label;
+                    $item->is_on_promo = (bool) $price->is_on_promo;
+                    $item->promo_price = $price->promo_price ? (float) $price->promo_price : null;
+                    $item->promo_label = $price->promo_label;
+                    $item->has_price = true;
+                    $item->price_is_stale = $price->last_verified_at
+                        && $price->last_verified_at->diffInDays(now()) > 7;
+                }
 
                 return $item;
             });
